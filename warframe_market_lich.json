@@ -1,0 +1,264 @@
+{
+    "RECORDS": [
+        {
+            "ids": "1",
+            "id": "5e9855993d9f64005cd702e6",
+            "item_name": "赤毒 龙骑兵",
+            "url_name": "kuva_drakgoon",
+            "icon_format": "land",
+            "thumb": "icons/en/thumbs/kuva_drakgoon.18ccf386cfd24a1404982d492abf14e2.128x128.png",
+            "icon": "icons/en/kuva_drakgoon.18ccf386cfd24a1404982d492abf14e2.png",
+            "element": ""
+        },
+        {
+            "ids": "2",
+            "id": "5e9855993d9f64005cd702e9",
+            "item_name": "赤毒 布拉克",
+            "url_name": "kuva_brakk",
+            "icon_format": "land",
+            "thumb": "icons/en/thumbs/kuva_brakk.a3f72cf490836be2a632960663454ae7.128x128.png",
+            "icon": "icons/en/kuva_brakk.a3f72cf490836be2a632960663454ae7.png",
+            "element": ""
+        },
+        {
+            "ids": "3",
+            "id": "5e98559a3d9f64005cd702eb",
+            "item_name": "赤毒 布拉玛",
+            "url_name": "kuva_bramma",
+            "icon_format": "land",
+            "thumb": "icons/en/thumbs/kuva_bramma.eaf6bd5d4a8f1413764771719ca2cc27.128x128.png",
+            "icon": "icons/en/kuva_bramma.eaf6bd5d4a8f1413764771719ca2cc27.png",
+            "element": ""
+        },
+        {
+            "ids": "4",
+            "id": "5e9855973d9f64005cd702e3",
+            "item_name": "赤毒 邪眼",
+            "url_name": "kuva_chakkhurr",
+            "icon_format": "land",
+            "thumb": "icons/en/thumbs/kuva_chakkhurr.a6dd9f9351a16da48402612663ea86da.128x128.png",
+            "icon": "icons/en/kuva_chakkhurr.a6dd9f9351a16da48402612663ea86da.png",
+            "element": ""
+        },
+        {
+            "ids": "5",
+            "id": "5e9855983d9f64005cd702e4",
+            "item_name": "赤毒 卡拉克",
+            "url_name": "kuva_karak",
+            "icon_format": "land",
+            "thumb": "icons/en/thumbs/kuva_karak.f2894fbcac608f83a75e4d91c13af406.128x128.png",
+            "icon": "icons/en/kuva_karak.f2894fbcac608f83a75e4d91c13af406.png",
+            "element": ""
+        },
+        {
+            "ids": "6",
+            "id": "5e9855983d9f64005cd702e5",
+            "item_name": "赤毒 双子史度巴",
+            "url_name": "kuva_twin_stubbas",
+            "icon_format": "land",
+            "thumb": "icons/en/thumbs/kuva_twin_stubbas.2b7e09ca3fbf0647c8f9b170dba34546.128x128.png",
+            "icon": "icons/en/kuva_twin_stubbas.2b7e09ca3fbf0647c8f9b170dba34546.png",
+            "element": ""
+        },
+        {
+            "ids": "7",
+            "id": "5e9855993d9f64005cd702e7",
+            "item_name": "赤毒 努寇微波枪",
+            "url_name": "kuva_nukor",
+            "icon_format": "land",
+            "thumb": "icons/en/thumbs/kuva_nukor.0a0d118ccf2b40a6323c8be28fed7cd8.128x128.png",
+            "icon": "icons/en/kuva_nukor.0a0d118ccf2b40a6323c8be28fed7cd8.png",
+            "element": ""
+        },
+        {
+            "ids": "8",
+            "id": "5e9855993d9f64005cd702e8",
+            "item_name": "赤毒 征服榴炮",
+            "url_name": "kuva_tonkor",
+            "icon_format": "land",
+            "thumb": "icons/en/thumbs/kuva_tonkor.bba3f83b859708221b5c374429d1d540.128x128.png",
+            "icon": "icons/en/kuva_tonkor.bba3f83b859708221b5c374429d1d540.png",
+            "element": ""
+        },
+        {
+            "ids": "9",
+            "id": "5e98559a3d9f64005cd702ea",
+            "item_name": "赤毒 北海巨妖",
+            "url_name": "kuva_kraken",
+            "icon_format": "land",
+            "thumb": "icons/en/thumbs/kuva_kraken.0989fa722c36b1bff23be1c9225bca3c.128x128.png",
+            "icon": "icons/en/kuva_kraken.0989fa722c36b1bff23be1c9225bca3c.png",
+            "element": ""
+        },
+        {
+            "ids": "10",
+            "id": "5e9855963d9f64005cd702dc",
+            "item_name": "赤毒 雌鹿",
+            "url_name": "kuva_hind",
+            "icon_format": "land",
+            "thumb": "icons/en/thumbs/kuva_hind.14f490c8054e9d01d1b4b4126a7ddd8f.128x128.png",
+            "icon": "icons/en/kuva_hind.14f490c8054e9d01d1b4b4126a7ddd8f.png",
+            "element": ""
+        },
+        {
+            "ids": "11",
+            "id": "5e9855963d9f64005cd702dd",
+            "item_name": "赤毒 怒雷",
+            "url_name": "kuva_ayanga",
+            "icon_format": "land",
+            "thumb": "icons/en/thumbs/kuva_ayanga.118c00ee08d769b527848c29d635af80.128x128.png",
+            "icon": "icons/en/kuva_ayanga.118c00ee08d769b527848c29d635af80.png",
+            "element": ""
+        },
+        {
+            "ids": "12",
+            "id": "5e9855963d9f64005cd702de",
+            "item_name": "赤毒 预言者",
+            "url_name": "kuva_seer",
+            "icon_format": "land",
+            "thumb": "icons/en/thumbs/kuva_seer.9b0112c7f74af198e75031ebded81247.128x128.png",
+            "icon": "icons/en/kuva_seer.9b0112c7f74af198e75031ebded81247.png",
+            "element": ""
+        },
+        {
+            "ids": "13",
+            "id": "5e9855973d9f64005cd702df",
+            "item_name": "赤毒 希尔德",
+            "url_name": "kuva_shildeg",
+            "icon_format": "land",
+            "thumb": "icons/en/thumbs/kuva_shildeg.47590eb4b2c5287e2439b854597ffbb5.128x128.png",
+            "icon": "icons/en/kuva_shildeg.47590eb4b2c5287e2439b854597ffbb5.png",
+            "element": ""
+        },
+        {
+            "ids": "14",
+            "id": "5e9855973d9f64005cd702e0",
+            "item_name": "赤毒 夸塔克",
+            "url_name": "kuva_quartakk",
+            "icon_format": "land",
+            "thumb": "icons/en/thumbs/kuva_quartakk.49e599c43b41eebbd22d9f7f6b772ffb.128x128.png",
+            "icon": "icons/en/kuva_quartakk.49e599c43b41eebbd22d9f7f6b772ffb.png",
+            "element": ""
+        },
+        {
+            "ids": "15",
+            "id": "5e9855973d9f64005cd702e1",
+            "item_name": "赤毒 寇恩热能枪",
+            "url_name": "kuva_kohm",
+            "icon_format": "land",
+            "thumb": "icons/en/thumbs/kuva_kohm.d1438d533b4ecd16d72e3535ce2f86e1.128x128.png",
+            "icon": "icons/en/kuva_kohm.d1438d533b4ecd16d72e3535ce2f86e1.png",
+            "element": ""
+        },
+        {
+            "ids": "16",
+            "id": "5e9855973d9f64005cd702e2",
+            "item_name": "赤毒 食人女魔",
+            "url_name": "kuva_ogris",
+            "icon_format": "land",
+            "thumb": "icons/en/thumbs/kuva_ogris.689c9b3b300f77f0c3dc3825130a6327.128x128.png",
+            "icon": "icons/en/kuva_ogris.689c9b3b300f77f0c3dc3825130a6327.png",
+            "element": ""
+        },
+        {
+            "ids": "17",
+            "id": "60e5b9014794450053e9996c",
+            "item_name": "赤毒 沙皇",
+            "url_name": "kuva_zarr",
+            "icon_format": "land",
+            "thumb": "icons/en/thumbs/kuva_zarr.cf7a28761d5fecb6f89a41f61f9a9a00.128x128.png",
+            "icon": "icons/en/kuva_zarr.cf7a28761d5fecb6f89a41f61f9a9a00.png",
+            "element": ""
+        },
+        {
+            "ids": "18",
+            "id": "60e5b9014794450053e9996d",
+            "item_name": "赤毒 葛拉特勒",
+            "url_name": "kuva_grattler",
+            "icon_format": "land",
+            "thumb": "icons/en/thumbs/kuva_grattler.e969d463b1fe293b20bedc62b92bde93.128x128.png",
+            "icon": "icons/en/kuva_grattler.e969d463b1fe293b20bedc62b92bde93.png",
+            "element": ""
+        },
+        {
+            "ids": "19",
+            "id": "60e5b9014794450053e9996e",
+            "item_name": "赤毒 海克",
+            "url_name": "kuva_hek",
+            "icon_format": "land",
+            "thumb": "icons/en/thumbs/kuva_hek.d47c53af68bd2af6a3ca6beaf76cb6d0.128x128.png",
+            "icon": "icons/en/kuva_hek.d47c53af68bd2af6a3ca6beaf76cb6d0.png",
+            "element": ""
+        },
+        {
+            "ids": "20",
+            "id": "5e98548a3d9f64004f9136bb",
+            "item_name": "充电幻纹",
+            "url_name": "vengeful_charge",
+            "icon_format": "land",
+            "thumb": "icons/en/thumbs/vengeful_charge.68e07295ec11cdb303755a9f26e87f0e.128x128.png",
+            "icon": "icons/en/vengeful_charge.68e07295ec11cdb303755a9f26e87f0e.png",
+            "element": "electricity"
+        },
+        {
+            "ids": "21",
+            "id": "5e9854b93d9f64004f9136bd",
+            "item_name": "震波幻纹",
+            "url_name": "vengeful_shockwave",
+            "icon_format": "port",
+            "thumb": "icons/en/thumbs/vengeful_shockwave.6020e14eb5e9516d4bc6ccf5023c864c.128x128.png",
+            "icon": "icons/en/vengeful_shockwave.6020e14eb5e9516d4bc6ccf5023c864c.png",
+            "element": "impact"
+        },
+        {
+            "ids": "22",
+            "id": "5e9854ec3d9f64004f9136bf",
+            "item_name": "骗术幻纹",
+            "url_name": "vengeful_trickster",
+            "icon_format": "port",
+            "thumb": "icons/en/thumbs/vengeful_trickster.3b85b181837a55263dbd3e1a529c39cc.128x128.png",
+            "icon": "icons/en/vengeful_trickster.3b85b181837a55263dbd3e1a529c39cc.png",
+            "element": "radiation"
+        },
+        {
+            "ids": "23",
+            "id": "5e98545e3d9f64004f9136b9",
+            "item_name": "吸引幻纹",
+            "url_name": "vengeful_pull",
+            "icon_format": "port",
+            "thumb": "icons/en/thumbs/vengeful_pull.e80eed69fd9cc1995a514df3a4e64596.128x128.png",
+            "icon": "icons/en/vengeful_pull.e80eed69fd9cc1995a514df3a4e64596.png",
+            "element": "magnetic"
+        },
+        {
+            "ids": "24",
+            "id": "5e9854a23d9f64004f9136bc",
+            "item_name": "冰冻幻纹",
+            "url_name": "vengeful_chill",
+            "icon_format": "land",
+            "thumb": "icons/en/thumbs/vengeful_chill.357327ef4c8de2efee1873926aeb47aa.128x128.png",
+            "icon": "icons/en/vengeful_chill.357327ef4c8de2efee1873926aeb47aa.png",
+            "element": "cold"
+        },
+        {
+            "ids": "25",
+            "id": "5e9854ce3d9f64004f9136be",
+            "item_name": "毒素幻纹",
+            "url_name": "vengeful_toxin",
+            "icon_format": "land",
+            "thumb": "icons/en/thumbs/vengeful_toxin.4b0f7027e99675f64183a0abadf28c5e.128x128.png",
+            "icon": "icons/en/vengeful_toxin.4b0f7027e99675f64183a0abadf28c5e.png",
+            "element": "toxin"
+        },
+        {
+            "ids": "26",
+            "id": "5e98546d3d9f64004f9136ba",
+            "item_name": "火焰幻纹",
+            "url_name": "vengeful_flame",
+            "icon_format": "port",
+            "thumb": "icons/en/thumbs/vengeful_flame.1c2faa83c219e6d6699524495b578d7f.128x128.png",
+            "icon": "icons/en/vengeful_flame.1c2faa83c219e6d6699524495b578d7f.png",
+            "element": "heat"
+        }
+    ]
+}

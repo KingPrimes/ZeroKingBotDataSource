@@ -1,0 +1,79 @@
+{
+    "RECORDS": [
+        {
+            "id": "1",
+            "nick_en": "cold_damage",
+            "nick_ch": "冰"
+        },
+        {
+            "id": "2",
+            "nick_en": "critical_chance",
+            "nick_ch": "爆率"
+        },
+        {
+            "id": "3",
+            "nick_en": "critical_damage",
+            "nick_ch": "爆伤"
+        },
+        {
+            "id": "4",
+            "nick_en": "base_damage_/_melee_damage",
+            "nick_ch": "基伤"
+        },
+        {
+            "id": "5",
+            "nick_en": "electric_damage",
+            "nick_ch": "电"
+        },
+        {
+            "id": "6",
+            "nick_en": "heat_damage",
+            "nick_ch": "火"
+        },
+        {
+            "id": "7",
+            "nick_en": "impact_damage",
+            "nick_ch": "冲"
+        },
+        {
+            "id": "8",
+            "nick_en": "multishot",
+            "nick_ch": "多重"
+        },
+        {
+            "id": "9",
+            "nick_en": "toxin_damage",
+            "nick_ch": "毒"
+        },
+        {
+            "id": "10",
+            "nick_en": "range",
+            "nick_ch": "范围"
+        },
+        {
+            "id": "11",
+            "nick_en": "slash_damage",
+            "nick_ch": "切割"
+        },
+        {
+            "id": "12",
+            "nick_en": "status_chance",
+            "nick_ch": "触发"
+        },
+        {
+            "id": "13",
+            "nick_en": "damage_vs_corpus",
+            "nick_ch": "C"
+        },
+        {
+            "id": "14",
+            "nick_en": "damage_vs_grineer",
+            "nick_ch": "G"
+        },
+        {
+            "id": "15",
+            "nick_en": "damage_vs_infested",
+            "nick_ch": "I"
+        }
+    ]
+}

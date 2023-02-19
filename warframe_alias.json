@@ -1,0 +1,549 @@
+{
+    "RECORDS": [
+        {
+            "alias_id": "1",
+            "alias_en": "Mag",
+            "alias_ch": "磁妹"
+        },
+        {
+            "alias_id": "2",
+            "alias_en": "Mirage",
+            "alias_ch": "魅影精灵"
+        },
+        {
+            "alias_id": "3",
+            "alias_en": "Nekros",
+            "alias_ch": "摸尸"
+        },
+        {
+            "alias_id": "4",
+            "alias_en": "Nova",
+            "alias_ch": "诺娃"
+        },
+        {
+            "alias_id": "5",
+            "alias_en": "Oberon",
+            "alias_ch": "奶爸"
+        },
+        {
+            "alias_id": "6",
+            "alias_en": "Nyx",
+            "alias_ch": "脑溢血"
+        },
+        {
+            "alias_id": "7",
+            "alias_en": "Loki",
+            "alias_ch": "洛基"
+        },
+        {
+            "alias_id": "8",
+            "alias_en": "Rhino",
+            "alias_ch": "犀牛"
+        },
+        {
+            "alias_id": "9",
+            "alias_en": "Trinity",
+            "alias_ch": "奶妈"
+        },
+        {
+            "alias_id": "10",
+            "alias_en": "Valkyr",
+            "alias_ch": "女汉子"
+        },
+        {
+            "alias_id": "11",
+            "alias_en": "Vauban",
+            "alias_ch": "工程"
+        },
+        {
+            "alias_id": "12",
+            "alias_en": "Volt",
+            "alias_ch": "电男"
+        },
+        {
+            "alias_id": "13",
+            "alias_en": "Saryn",
+            "alias_ch": "毒妈"
+        },
+        {
+            "alias_id": "14",
+            "alias_en": "Hydroid",
+            "alias_ch": "水男"
+        },
+        {
+            "alias_id": "15",
+            "alias_en": "Frost",
+            "alias_ch": "冰队"
+        },
+        {
+            "alias_id": "16",
+            "alias_en": "Ember",
+            "alias_ch": "火鸡"
+        },
+        {
+            "alias_id": "17",
+            "alias_en": "Ash",
+            "alias_ch": "啊什"
+        },
+        {
+            "alias_id": "18",
+            "alias_en": "Banshee",
+            "alias_ch": "音妈"
+        },
+        {
+            "alias_id": "19",
+            "alias_en": "Wukong",
+            "alias_ch": "悟空"
+        },
+        {
+            "alias_id": "20",
+            "alias_en": "Ivara",
+            "alias_ch": "弓妹"
+        },
+        {
+            "alias_id": "21",
+            "alias_en": "Atlas",
+            "alias_ch": "土甲"
+        },
+        {
+            "alias_id": "22",
+            "alias_en": "Equinox",
+            "alias_ch": "扶她"
+        },
+        {
+            "alias_id": "23",
+            "alias_en": "Zephyr",
+            "alias_ch": "鸟姐"
+        },
+        {
+            "alias_id": "24",
+            "alias_en": "Limbo",
+            "alias_ch": "小明"
+        },
+        {
+            "alias_id": "25",
+            "alias_en": "Mesa",
+            "alias_ch": "女枪"
+        },
+        {
+            "alias_id": "26",
+            "alias_en": "Chroma",
+            "alias_ch": "龙甲"
+        },
+        {
+            "alias_id": "27",
+            "alias_en": "Titania",
+            "alias_ch": "蝶妹"
+        },
+        {
+            "alias_id": "28",
+            "alias_en": "Nezha",
+            "alias_ch": "哪吒"
+        },
+        {
+            "alias_id": "29",
+            "alias_en": "Octavia",
+            "alias_ch": "dj"
+        },
+        {
+            "alias_id": "32",
+            "alias_en": "Hildryn",
+            "alias_ch": "母牛"
+        },
+        {
+            "alias_id": "33",
+            "alias_en": "Inaros",
+            "alias_ch": "沙甲"
+        },
+        {
+            "alias_id": "34",
+            "alias_en": "Khora",
+            "alias_ch": "猫甲"
+        },
+        {
+            "alias_id": "35",
+            "alias_en": "膛室 Prime",
+            "alias_ch": "金首发"
+        },
+        {
+            "alias_id": "37",
+            "alias_en": "鲮鲤剑",
+            "alias_ch": "鱼刀"
+        },
+        {
+            "alias_id": "38",
+            "alias_en": "Gara",
+            "alias_ch": "玻璃甲"
+        },
+        {
+            "alias_id": "39",
+            "alias_en": "Wisp",
+            "alias_ch": "鬼妹"
+        },
+        {
+            "alias_id": "40",
+            "alias_en": "Baruuk",
+            "alias_ch": "僧甲"
+        },
+        {
+            "alias_id": "41",
+            "alias_en": "Garuda",
+            "alias_ch": "血妈"
+        },
+        {
+            "alias_id": "42",
+            "alias_en": "Harrow",
+            "alias_ch": "主教"
+        },
+        {
+            "alias_id": "43",
+            "alias_en": "Nidus",
+            "alias_ch": "蛆甲"
+        },
+        {
+            "alias_id": "44",
+            "alias_en": "Revenant",
+            "alias_ch": "夜灵甲"
+        },
+        {
+            "alias_id": "45",
+            "alias_en": "碎裂者",
+            "alias_ch": "玻璃喷"
+        },
+        {
+            "alias_id": "46",
+            "alias_en": "弧电离子枪",
+            "alias_ch": "C喷"
+        },
+        {
+            "alias_id": "47",
+            "alias_en": "铁晶磁轨炮",
+            "alias_ch": "C矛"
+        },
+        {
+            "alias_id": "48",
+            "alias_en": "寇恩热能枪",
+            "alias_ch": "吹风机"
+        },
+        {
+            "alias_id": "49",
+            "alias_en": "Protea",
+            "alias_ch": "茶妹"
+        },
+        {
+            "alias_id": "50",
+            "alias_en": "阿耶檀识 Anasa 塑像",
+            "alias_ch": "雕像"
+        },
+        {
+            "alias_id": "51",
+            "alias_en": "阿耶檀识琥珀星",
+            "alias_ch": "黄星"
+        },
+        {
+            "alias_id": "52",
+            "alias_en": "Ayatan Cyan Star",
+            "alias_ch": "蓝星"
+        },
+        {
+            "alias_id": "53",
+            "alias_en": "Gauss",
+            "alias_ch": "高斯"
+        },
+        {
+            "alias_id": "54",
+            "alias_en": "脊椎节鞭",
+            "alias_ch": "I鞭"
+        },
+        {
+            "alias_id": "55",
+            "alias_en": "奥堤克光子枪",
+            "alias_ch": "O炮"
+        },
+        {
+            "alias_id": "56",
+            "alias_en": "Paracesis",
+            "alias_ch": "杀妈刀"
+        },
+        {
+            "alias_id": "57",
+            "alias_en": "Mag",
+            "alias_ch": "磁力"
+        },
+        {
+            "alias_id": "58",
+            "alias_en": "Mirage",
+            "alias_ch": "小丑"
+        },
+        {
+            "alias_id": "59",
+            "alias_en": "Nekros",
+            "alias_ch": "摸"
+        },
+        {
+            "alias_id": "60",
+            "alias_en": "Nekros",
+            "alias_ch": "御魂主宰"
+        },
+        {
+            "alias_id": "61",
+            "alias_en": "Nova",
+            "alias_ch": "加速娃"
+        },
+        {
+            "alias_id": "62",
+            "alias_en": "Nova",
+            "alias_ch": "减速娃"
+        },
+        {
+            "alias_id": "63",
+            "alias_en": "Loki",
+            "alias_ch": "弱鸡"
+        },
+        {
+            "alias_id": "64",
+            "alias_en": "Loki",
+            "alias_ch": "邪神"
+        },
+        {
+            "alias_id": "65",
+            "alias_en": "Rhino",
+            "alias_ch": "牛"
+        },
+        {
+            "alias_id": "66",
+            "alias_en": "Rhino",
+            "alias_ch": "牛甲"
+        },
+        {
+            "alias_id": "67",
+            "alias_en": "Trinity",
+            "alias_ch": "奶"
+        },
+        {
+            "alias_id": "68",
+            "alias_en": "Trinity",
+            "alias_ch": "大neinei"
+        },
+        {
+            "alias_id": "69",
+            "alias_en": "Valkyr",
+            "alias_ch": "瓦喵"
+        },
+        {
+            "alias_id": "70",
+            "alias_en": "Volt",
+            "alias_ch": "电队"
+        },
+        {
+            "alias_id": "71",
+            "alias_en": "Hydroid",
+            "alias_ch": "惊涛骇浪"
+        },
+        {
+            "alias_id": "72",
+            "alias_en": "Frost",
+            "alias_ch": "冰男"
+        },
+        {
+            "alias_id": "73",
+            "alias_en": "Frost",
+            "alias_ch": "冰雪寒霜"
+        },
+        {
+            "alias_id": "74",
+            "alias_en": "Ember",
+            "alias_ch": "永恒烈焰"
+        },
+        {
+            "alias_id": "75",
+            "alias_en": "Ember",
+            "alias_ch": "火妹"
+        },
+        {
+            "alias_id": "76",
+            "alias_en": "Ember",
+            "alias_ch": "火女"
+        },
+        {
+            "alias_id": "77",
+            "alias_en": "Ember",
+            "alias_ch": "鸡"
+        },
+        {
+            "alias_id": "78",
+            "alias_en": "Ash",
+            "alias_ch": "啊屎"
+        },
+        {
+            "alias_id": "79",
+            "alias_en": "Ash",
+            "alias_ch": "轮椅"
+        },
+        {
+            "alias_id": "80",
+            "alias_en": "Ash",
+            "alias_ch": "灰烬"
+        },
+        {
+            "alias_id": "81",
+            "alias_en": "Ash",
+            "alias_ch": "阿屎"
+        },
+        {
+            "alias_id": "82",
+            "alias_en": "Banshee",
+            "alias_ch": "恸哭女妖"
+        },
+        {
+            "alias_id": "83",
+            "alias_en": "Wukong",
+            "alias_ch": "猴"
+        },
+        {
+            "alias_id": "84",
+            "alias_en": "Wukong",
+            "alias_ch": "齐天大圣"
+        },
+        {
+            "alias_id": "85",
+            "alias_en": "Ivara",
+            "alias_ch": "神弓游侠"
+        },
+        {
+            "alias_id": "86",
+            "alias_en": "Atlas",
+            "alias_ch": "一拳超人"
+        },
+        {
+            "alias_id": "87",
+            "alias_en": "Atlas",
+            "alias_ch": "撼天"
+        },
+        {
+            "alias_id": "88",
+            "alias_en": "Atlas",
+            "alias_ch": "撼天刑者"
+        },
+        {
+            "alias_id": "89",
+            "alias_en": "Atlas",
+            "alias_ch": "石甲"
+        },
+        {
+            "alias_id": "90",
+            "alias_en": "Atlas",
+            "alias_ch": "石男"
+        },
+        {
+            "alias_id": "91",
+            "alias_en": "Atlas",
+            "alias_ch": "龟"
+        },
+        {
+            "alias_id": "92",
+            "alias_en": "Equinox",
+            "alias_ch": "双子"
+        },
+        {
+            "alias_id": "93",
+            "alias_en": "Equinox",
+            "alias_ch": "阴阳"
+        },
+        {
+            "alias_id": "94",
+            "alias_en": "Zephyr",
+            "alias_ch": "鸟"
+        },
+        {
+            "alias_id": "95",
+            "alias_en": "Limbo",
+            "alias_ch": "李明博"
+        },
+        {
+            "alias_id": "96",
+            "alias_en": "Mesa",
+            "alias_ch": "圣枪弥撒"
+        },
+        {
+            "alias_id": "98",
+            "alias_en": "Titania",
+            "alias_ch": "蝶甲"
+        },
+        {
+            "alias_id": "99",
+            "alias_en": "Titania",
+            "alias_ch": "蝶"
+        },
+        {
+            "alias_id": "100",
+            "alias_en": "Octavia",
+            "alias_ch": "歌姬"
+        },
+        {
+            "alias_id": "101",
+            "alias_en": "Khora",
+            "alias_ch": "蜘蛛"
+        },
+        {
+            "alias_id": "102",
+            "alias_en": "Gara",
+            "alias_ch": "玻璃"
+        },
+        {
+            "alias_id": "103",
+            "alias_en": "Gara",
+            "alias_ch": "琉璃仕女"
+        },
+        {
+            "alias_id": "104",
+            "alias_en": "Wisp",
+            "alias_ch": "花甲"
+        },
+        {
+            "alias_id": "105",
+            "alias_en": "Wisp",
+            "alias_ch": "花妈"
+        },
+        {
+            "alias_id": "106",
+            "alias_en": "Wisp",
+            "alias_ch": "花女"
+        },
+        {
+            "alias_id": "107",
+            "alias_en": "Baruuk",
+            "alias_ch": "圣拳武僧"
+        },
+        {
+            "alias_id": "108",
+            "alias_en": "Garuda",
+            "alias_ch": "迦楼罗"
+        },
+        {
+            "alias_id": "109",
+            "alias_en": "Harrow",
+            "alias_ch": "驱魔使者"
+        },
+        {
+            "alias_id": "110",
+            "alias_en": "Nidus",
+            "alias_ch": "蛆爹"
+        },
+        {
+            "alias_id": "111",
+            "alias_en": "Nidus",
+            "alias_ch": "感染甲"
+        },
+        {
+            "alias_id": "112",
+            "alias_en": "Nidus",
+            "alias_ch": "蛆"
+        },
+        {
+            "alias_id": "113",
+            "alias_en": "阿耶檀识 Anasa 塑像",
+            "alias_ch": "菊花"
+        }
+    ]
+}
