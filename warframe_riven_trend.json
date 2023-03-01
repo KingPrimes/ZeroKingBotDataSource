@@ -1,6 +1,7 @@
 {
     "RECORDS": [
         {
+            "riven_trend_id": "1",
             "riven_trend_name": "Flux Rifle",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.55",
@@ -9,6 +10,7 @@
             "riven_trend_type": "RIFLE"
         },
         {
+            "riven_trend_id": "2",
             "riven_trend_name": "Harpak",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.55",
@@ -17,6 +19,7 @@
             "riven_trend_type": "RIFLE"
         },
         {
+            "riven_trend_id": "3",
             "riven_trend_name": "Tetra",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.5",
@@ -25,6 +28,7 @@
             "riven_trend_type": "RIFLE"
         },
         {
+            "riven_trend_id": "4",
             "riven_trend_name": "Miter",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.5",
@@ -33,6 +37,7 @@
             "riven_trend_type": "RIFLE"
         },
         {
+            "riven_trend_id": "5",
             "riven_trend_name": "Mutalist Quanta",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.5",
@@ -41,6 +46,7 @@
             "riven_trend_type": "RIFLE"
         },
         {
+            "riven_trend_id": "6",
             "riven_trend_name": "Burston",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.45",
@@ -49,6 +55,7 @@
             "riven_trend_type": "RIFLE"
         },
         {
+            "riven_trend_id": "7",
             "riven_trend_name": "Buzlok",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.45",
@@ -57,6 +64,7 @@
             "riven_trend_type": "RIFLE"
         },
         {
+            "riven_trend_id": "8",
             "riven_trend_name": "Prisma Tetra",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.45",
@@ -65,6 +73,7 @@
             "riven_trend_type": "RIFLE"
         },
         {
+            "riven_trend_id": "9",
             "riven_trend_name": "MK1-Paris",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.45",
@@ -73,6 +82,7 @@
             "riven_trend_type": "RIFLE"
         },
         {
+            "riven_trend_id": "10",
             "riven_trend_name": "Attica",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.42",
@@ -81,6 +91,7 @@
             "riven_trend_type": "RIFLE"
         },
         {
+            "riven_trend_id": "11",
             "riven_trend_name": "Hind",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.42",
@@ -89,6 +100,7 @@
             "riven_trend_type": "RIFLE"
         },
         {
+            "riven_trend_id": "12",
             "riven_trend_name": "Latron",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.4",
@@ -97,6 +109,7 @@
             "riven_trend_type": "RIFLE"
         },
         {
+            "riven_trend_id": "13",
             "riven_trend_name": "Panthera",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.4",
@@ -105,6 +118,7 @@
             "riven_trend_type": "RIFLE"
         },
         {
+            "riven_trend_id": "14",
             "riven_trend_name": "Paris",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.4",
@@ -113,6 +127,7 @@
             "riven_trend_type": "RIFLE"
         },
         {
+            "riven_trend_id": "15",
             "riven_trend_name": "Dera",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.4",
@@ -121,6 +136,7 @@
             "riven_trend_type": "RIFLE"
         },
         {
+            "riven_trend_id": "16",
             "riven_trend_name": "Quanta Vandal",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.4",
@@ -129,6 +145,7 @@
             "riven_trend_type": "RIFLE"
         },
         {
+            "riven_trend_id": "17",
             "riven_trend_name": "Quanta",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.4",
@@ -137,6 +154,7 @@
             "riven_trend_type": "RIFLE"
         },
         {
+            "riven_trend_id": "18",
             "riven_trend_name": "Gorgon",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.4",
@@ -145,6 +163,7 @@
             "riven_trend_type": "RIFLE"
         },
         {
+            "riven_trend_id": "19",
             "riven_trend_name": "Gorgon Wraith",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.35",
@@ -153,6 +172,7 @@
             "riven_trend_type": "RIFLE"
         },
         {
+            "riven_trend_id": "20",
             "riven_trend_name": "Grakata",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.35",
@@ -161,6 +181,7 @@
             "riven_trend_type": "RIFLE"
         },
         {
+            "riven_trend_id": "21",
             "riven_trend_name": "Latron Wraith",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.35",
@@ -169,6 +190,7 @@
             "riven_trend_type": "RIFLE"
         },
         {
+            "riven_trend_id": "22",
             "riven_trend_name": "Karak",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.35",
@@ -177,6 +199,7 @@
             "riven_trend_type": "RIFLE"
         },
         {
+            "riven_trend_id": "23",
             "riven_trend_name": "MK1-Braton",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.35",
@@ -185,6 +208,7 @@
             "riven_trend_type": "RIFLE"
         },
         {
+            "riven_trend_id": "24",
             "riven_trend_name": "Mutalist Cernos",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.35",
@@ -193,6 +217,7 @@
             "riven_trend_type": "RIFLE"
         },
         {
+            "riven_trend_id": "25",
             "riven_trend_name": "Burston Prime",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.35",
@@ -201,6 +226,7 @@
             "riven_trend_type": "RIFLE"
         },
         {
+            "riven_trend_id": "26",
             "riven_trend_name": "Braton",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.35",
@@ -209,6 +235,7 @@
             "riven_trend_type": "RIFLE"
         },
         {
+            "riven_trend_id": "27",
             "riven_trend_name": "Dera Vandal",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.35",
@@ -217,6 +244,7 @@
             "riven_trend_type": "RIFLE"
         },
         {
+            "riven_trend_id": "28",
             "riven_trend_name": "Paris Prime",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.35",
@@ -225,6 +253,7 @@
             "riven_trend_type": "RIFLE"
         },
         {
+            "riven_trend_id": "29",
             "riven_trend_name": "Penta",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.35",
@@ -233,6 +262,7 @@
             "riven_trend_type": "RIFLE"
         },
         {
+            "riven_trend_id": "30",
             "riven_trend_name": "Paracyst",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.31",
@@ -241,6 +271,7 @@
             "riven_trend_type": "RIFLE"
         },
         {
+            "riven_trend_id": "31",
             "riven_trend_name": "Synapse",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.31",
@@ -249,6 +280,7 @@
             "riven_trend_type": "RIFLE"
         },
         {
+            "riven_trend_id": "32",
             "riven_trend_name": "Veldt",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.3",
@@ -257,6 +289,7 @@
             "riven_trend_type": "RIFLE"
         },
         {
+            "riven_trend_id": "33",
             "riven_trend_name": "Ogris",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.3",
@@ -265,6 +298,7 @@
             "riven_trend_type": "RIFLE"
         },
         {
+            "riven_trend_id": "34",
             "riven_trend_name": "Javlok",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.3",
@@ -273,6 +307,7 @@
             "riven_trend_type": "RIFLE"
         },
         {
+            "riven_trend_id": "35",
             "riven_trend_name": "Torid",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.3",
@@ -281,6 +316,7 @@
             "riven_trend_type": "RIFLE"
         },
         {
+            "riven_trend_id": "36",
             "riven_trend_name": "Tonkor",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.3",
@@ -289,6 +325,7 @@
             "riven_trend_type": "RIFLE"
         },
         {
+            "riven_trend_id": "37",
             "riven_trend_name": "Prisma Gorgon",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.3",
@@ -297,6 +334,7 @@
             "riven_trend_type": "RIFLE"
         },
         {
+            "riven_trend_id": "38",
             "riven_trend_name": "Nagantaka",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.3",
@@ -305,6 +343,7 @@
             "riven_trend_type": "RIFLE"
         },
         {
+            "riven_trend_id": "39",
             "riven_trend_name": "Latron Prime",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.3",
@@ -313,6 +352,7 @@
             "riven_trend_type": "RIFLE"
         },
         {
+            "riven_trend_id": "40",
             "riven_trend_name": "Prisma Grakata",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.3",
@@ -321,6 +361,7 @@
             "riven_trend_type": "RIFLE"
         },
         {
+            "riven_trend_id": "41",
             "riven_trend_name": "Secura Penta",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.3",
@@ -329,6 +370,7 @@
             "riven_trend_type": "RIFLE"
         },
         {
+            "riven_trend_id": "42",
             "riven_trend_name": "Sybaris",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.3",
@@ -337,6 +379,7 @@
             "riven_trend_type": "RIFLE"
         },
         {
+            "riven_trend_id": "43",
             "riven_trend_name": "Glaxion",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.3",
@@ -345,6 +388,7 @@
             "riven_trend_type": "RIFLE"
         },
         {
+            "riven_trend_id": "44",
             "riven_trend_name": "Boltor",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.3",
@@ -353,6 +397,7 @@
             "riven_trend_type": "RIFLE"
         },
         {
+            "riven_trend_id": "45",
             "riven_trend_name": "Cernos",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.3",
@@ -361,6 +406,7 @@
             "riven_trend_type": "RIFLE"
         },
         {
+            "riven_trend_id": "46",
             "riven_trend_name": "Grinlok",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.3",
@@ -369,6 +415,7 @@
             "riven_trend_type": "RIFLE"
         },
         {
+            "riven_trend_id": "47",
             "riven_trend_name": "Hema",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.3",
@@ -377,6 +424,7 @@
             "riven_trend_type": "RIFLE"
         },
         {
+            "riven_trend_id": "48",
             "riven_trend_name": "Braton Vandal",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.3",
@@ -385,6 +433,7 @@
             "riven_trend_type": "RIFLE"
         },
         {
+            "riven_trend_id": "49",
             "riven_trend_name": "Carmine Penta",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.3",
@@ -393,6 +442,7 @@
             "riven_trend_type": "RIFLE"
         },
         {
+            "riven_trend_id": "50",
             "riven_trend_name": "Dread",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.3",
@@ -401,6 +451,7 @@
             "riven_trend_type": "RIFLE"
         },
         {
+            "riven_trend_id": "51",
             "riven_trend_name": "Karak Wraith",
             "riven_trend_new_dot": "●●●●○",
             "riven_trend_new_num": "1.28",
@@ -409,6 +460,7 @@
             "riven_trend_type": "RIFLE"
         },
         {
+            "riven_trend_id": "52",
             "riven_trend_name": "Rakta Cernos",
             "riven_trend_new_dot": "●●●●○",
             "riven_trend_new_num": "1.25",
@@ -417,6 +469,7 @@
             "riven_trend_type": "RIFLE"
         },
         {
+            "riven_trend_id": "53",
             "riven_trend_name": "Quartakk",
             "riven_trend_new_dot": "●●●●○",
             "riven_trend_new_num": "1.25",
@@ -425,6 +478,7 @@
             "riven_trend_type": "RIFLE"
         },
         {
+            "riven_trend_id": "54",
             "riven_trend_name": "Prisma Grinlok",
             "riven_trend_new_dot": "●●●●○",
             "riven_trend_new_num": "1.25",
@@ -433,6 +487,7 @@
             "riven_trend_type": "RIFLE"
         },
         {
+            "riven_trend_id": "55",
             "riven_trend_name": "Cernos Prime",
             "riven_trend_new_dot": "●●●●○",
             "riven_trend_new_num": "1.25",
@@ -441,6 +496,7 @@
             "riven_trend_type": "RIFLE"
         },
         {
+            "riven_trend_id": "56",
             "riven_trend_name": "Daikyu",
             "riven_trend_new_dot": "●●●●○",
             "riven_trend_new_num": "1.25",
@@ -449,6 +505,7 @@
             "riven_trend_type": "RIFLE"
         },
         {
+            "riven_trend_id": "57",
             "riven_trend_name": "Panthera Prime",
             "riven_trend_new_dot": "●●●●○",
             "riven_trend_new_num": "1.25",
@@ -457,6 +514,7 @@
             "riven_trend_type": "RIFLE"
         },
         {
+            "riven_trend_id": "58",
             "riven_trend_name": "Dex Sybaris",
             "riven_trend_new_dot": "●●●●○",
             "riven_trend_new_num": "1.25",
@@ -465,6 +523,7 @@
             "riven_trend_type": "RIFLE"
         },
         {
+            "riven_trend_id": "59",
             "riven_trend_name": "Braton Prime",
             "riven_trend_new_dot": "●●●●○",
             "riven_trend_new_num": "1.25",
@@ -473,6 +532,7 @@
             "riven_trend_type": "RIFLE"
         },
         {
+            "riven_trend_id": "60",
             "riven_trend_name": "Glaxion Vandal",
             "riven_trend_new_dot": "●●●●○",
             "riven_trend_new_num": "1.25",
@@ -481,6 +541,7 @@
             "riven_trend_type": "RIFLE"
         },
         {
+            "riven_trend_id": "61",
             "riven_trend_name": "Argonak",
             "riven_trend_new_dot": "●●●●○",
             "riven_trend_new_num": "1.25",
@@ -489,6 +550,7 @@
             "riven_trend_type": "RIFLE"
         },
         {
+            "riven_trend_id": "62",
             "riven_trend_name": "Simulor",
             "riven_trend_new_dot": "●●●●○",
             "riven_trend_new_num": "1.25",
@@ -497,6 +559,7 @@
             "riven_trend_type": "RIFLE"
         },
         {
+            "riven_trend_id": "63",
             "riven_trend_name": "Prime Laser Rifle",
             "riven_trend_new_dot": "●●●●○",
             "riven_trend_new_num": "1.21",
@@ -505,6 +568,7 @@
             "riven_trend_type": "RIFLE"
         },
         {
+            "riven_trend_id": "64",
             "riven_trend_name": "Zhuge",
             "riven_trend_new_dot": "●●●●○",
             "riven_trend_new_num": "1.2",
@@ -513,6 +577,7 @@
             "riven_trend_type": "RIFLE"
         },
         {
+            "riven_trend_id": "65",
             "riven_trend_name": "Boltor Prime",
             "riven_trend_new_dot": "●●●●○",
             "riven_trend_new_num": "1.2",
@@ -521,6 +586,7 @@
             "riven_trend_type": "RIFLE"
         },
         {
+            "riven_trend_id": "66",
             "riven_trend_name": "Scourge",
             "riven_trend_new_dot": "●●●●○",
             "riven_trend_new_num": "1.2",
@@ -529,6 +595,7 @@
             "riven_trend_type": "RIFLE"
         },
         {
+            "riven_trend_id": "67",
             "riven_trend_name": "Basmu",
             "riven_trend_new_dot": "●●●●○",
             "riven_trend_new_num": "1.2",
@@ -537,6 +604,7 @@
             "riven_trend_type": "RIFLE"
         },
         {
+            "riven_trend_id": "68",
             "riven_trend_name": "Sybaris Prime",
             "riven_trend_new_dot": "●●●●○",
             "riven_trend_new_num": "1.2",
@@ -545,6 +613,7 @@
             "riven_trend_type": "RIFLE"
         },
         {
+            "riven_trend_id": "69",
             "riven_trend_name": "Synoid Simulor",
             "riven_trend_new_dot": "●●●●○",
             "riven_trend_new_num": "1.2",
@@ -553,6 +622,7 @@
             "riven_trend_type": "RIFLE"
         },
         {
+            "riven_trend_id": "70",
             "riven_trend_name": "Telos Boltor",
             "riven_trend_new_dot": "●●●●○",
             "riven_trend_new_num": "1.2",
@@ -561,6 +631,7 @@
             "riven_trend_type": "RIFLE"
         },
         {
+            "riven_trend_id": "71",
             "riven_trend_name": "Soma",
             "riven_trend_new_dot": "●●●●○",
             "riven_trend_new_num": "1.15",
@@ -569,6 +640,7 @@
             "riven_trend_type": "RIFLE"
         },
         {
+            "riven_trend_id": "72",
             "riven_trend_name": "Zhuge Prime",
             "riven_trend_new_dot": "●●●●○",
             "riven_trend_new_num": "1.15",
@@ -577,6 +649,7 @@
             "riven_trend_type": "RIFLE"
         },
         {
+            "riven_trend_id": "73",
             "riven_trend_name": "Ferrox",
             "riven_trend_new_dot": "●●●●○",
             "riven_trend_new_num": "1.15",
@@ -585,6 +658,7 @@
             "riven_trend_type": "RIFLE"
         },
         {
+            "riven_trend_id": "74",
             "riven_trend_name": "Zarr",
             "riven_trend_new_dot": "●●●●○",
             "riven_trend_new_num": "1.15",
@@ -593,6 +667,7 @@
             "riven_trend_type": "RIFLE"
         },
         {
+            "riven_trend_id": "75",
             "riven_trend_name": "Opticor",
             "riven_trend_new_dot": "●●●●○",
             "riven_trend_new_num": "1.15",
@@ -601,6 +676,7 @@
             "riven_trend_type": "RIFLE"
         },
         {
+            "riven_trend_id": "76",
             "riven_trend_name": "Quellor",
             "riven_trend_new_dot": "●●●●○",
             "riven_trend_new_num": "1.15",
@@ -609,6 +685,7 @@
             "riven_trend_type": "RIFLE"
         },
         {
+            "riven_trend_id": "77",
             "riven_trend_name": "Tenet Tetra",
             "riven_trend_new_dot": "●●●○○",
             "riven_trend_new_num": "1.1",
@@ -617,6 +694,7 @@
             "riven_trend_type": "RIFLE"
         },
         {
+            "riven_trend_id": "78",
             "riven_trend_name": "Tombfinger (primary)",
             "riven_trend_new_dot": "●●●○○",
             "riven_trend_new_num": "1",
@@ -625,6 +703,7 @@
             "riven_trend_type": "RIFLE"
         },
         {
+            "riven_trend_id": "79",
             "riven_trend_name": "Vermisplicer (primary)",
             "riven_trend_new_dot": "●●●○○",
             "riven_trend_new_num": "0.9",
@@ -633,6 +712,7 @@
             "riven_trend_type": "RIFLE"
         },
         {
+            "riven_trend_id": "80",
             "riven_trend_name": "Akarius",
             "riven_trend_new_dot": "●●●○○",
             "riven_trend_new_num": "0.95",
@@ -641,6 +721,7 @@
             "riven_trend_type": "PISTOL"
         },
         {
+            "riven_trend_id": "81",
             "riven_trend_name": "Akstiletto Prime",
             "riven_trend_new_dot": "●●○○○",
             "riven_trend_new_num": "0.8",
@@ -649,6 +730,7 @@
             "riven_trend_type": "PISTOL"
         },
         {
+            "riven_trend_id": "82",
             "riven_trend_name": "Athodai",
             "riven_trend_new_dot": "●●●○○",
             "riven_trend_new_num": "1.05",
@@ -657,6 +739,7 @@
             "riven_trend_type": "PISTOL"
         },
         {
+            "riven_trend_id": "83",
             "riven_trend_name": "Cyanex",
             "riven_trend_new_dot": "●●●○○",
             "riven_trend_new_num": "0.95",
@@ -665,6 +748,7 @@
             "riven_trend_type": "PISTOL"
         },
         {
+            "riven_trend_id": "84",
             "riven_trend_name": "Synoid Gammacor",
             "riven_trend_new_dot": "●●●○○",
             "riven_trend_new_num": "1.1",
@@ -673,6 +757,7 @@
             "riven_trend_type": "PISTOL"
         },
         {
+            "riven_trend_id": "85",
             "riven_trend_name": "Knell Prime",
             "riven_trend_new_dot": "●●○○○",
             "riven_trend_new_num": "0.85",
@@ -681,6 +766,7 @@
             "riven_trend_type": "PISTOL"
         },
         {
+            "riven_trend_id": "86",
             "riven_trend_name": "Kompressa",
             "riven_trend_new_dot": "●●●○○",
             "riven_trend_new_num": "1.1",
@@ -689,6 +775,7 @@
             "riven_trend_type": "PISTOL"
         },
         {
+            "riven_trend_id": "87",
             "riven_trend_name": "Pandero Prime",
             "riven_trend_new_dot": "●●●○○",
             "riven_trend_new_num": "1.05",
@@ -697,6 +784,7 @@
             "riven_trend_type": "PISTOL"
         },
         {
+            "riven_trend_id": "88",
             "riven_trend_name": "Sepulcrum",
             "riven_trend_new_dot": "●●●○○",
             "riven_trend_new_num": "1.05",
@@ -705,6 +793,7 @@
             "riven_trend_type": "PISTOL"
         },
         {
+            "riven_trend_id": "89",
             "riven_trend_name": "Sicarus Prime",
             "riven_trend_new_dot": "●●●●○",
             "riven_trend_new_num": "1.15",
@@ -713,6 +802,7 @@
             "riven_trend_type": "PISTOL"
         },
         {
+            "riven_trend_id": "90",
             "riven_trend_name": "Staticor",
             "riven_trend_new_dot": "●●○○○",
             "riven_trend_new_num": "0.8",
@@ -721,6 +811,7 @@
             "riven_trend_type": "PISTOL"
         },
         {
+            "riven_trend_id": "91",
             "riven_trend_name": "Arum Spinosa",
             "riven_trend_new_dot": "●●●●○",
             "riven_trend_new_num": "1.2",
@@ -729,6 +820,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "92",
             "riven_trend_name": "Atterax",
             "riven_trend_new_dot": "●●●●○",
             "riven_trend_new_num": "1.15",
@@ -737,6 +829,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "93",
             "riven_trend_name": "Ceti Lacera",
             "riven_trend_new_dot": "●●●●○",
             "riven_trend_new_num": "1.2",
@@ -745,6 +838,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "94",
             "riven_trend_name": "Cyath",
             "riven_trend_new_dot": "●●●○○",
             "riven_trend_new_num": "0.95",
@@ -753,6 +847,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "95",
             "riven_trend_name": "Furax Wraith",
             "riven_trend_new_dot": "●●●●○",
             "riven_trend_new_num": "1.15",
@@ -761,6 +856,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "96",
             "riven_trend_name": "Galatine Prime",
             "riven_trend_new_dot": "●●●○○",
             "riven_trend_new_num": "0.9",
@@ -769,6 +865,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "97",
             "riven_trend_name": "Jat Kusar",
             "riven_trend_new_dot": "●●●●○",
             "riven_trend_new_num": "1.2",
@@ -777,6 +874,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "98",
             "riven_trend_name": "Keratinos",
             "riven_trend_new_dot": "●●●○○",
             "riven_trend_new_num": "1.05",
@@ -785,6 +883,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "99",
             "riven_trend_name": "Lesion",
             "riven_trend_new_dot": "●●○○○",
             "riven_trend_new_num": "0.8",
@@ -793,6 +892,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "100",
             "riven_trend_name": "Masseter",
             "riven_trend_new_dot": "●●●●○",
             "riven_trend_new_num": "1.25",
@@ -801,6 +901,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "101",
             "riven_trend_name": "Ohma",
             "riven_trend_new_dot": "●●●●○",
             "riven_trend_new_num": "1.25",
@@ -809,6 +910,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "102",
             "riven_trend_name": "Praedos",
             "riven_trend_new_dot": "●○○○○",
             "riven_trend_new_num": "0.55",
@@ -817,6 +919,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "103",
             "riven_trend_name": "Rakta Dark Dagger",
             "riven_trend_new_dot": "●●●○○",
             "riven_trend_new_num": "1",
@@ -825,6 +928,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "104",
             "riven_trend_name": "Sarpa",
             "riven_trend_new_dot": "●●●●○",
             "riven_trend_new_num": "1.15",
@@ -833,6 +937,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "105",
             "riven_trend_name": "Scindo Prime",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.3",
@@ -841,6 +946,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "106",
             "riven_trend_name": "Sigma & Octantis",
             "riven_trend_new_dot": "●●●○○",
             "riven_trend_new_num": "1.05",
@@ -849,6 +955,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "107",
             "riven_trend_name": "Silva & Aegis",
             "riven_trend_new_dot": "●●●●○",
             "riven_trend_new_num": "1.2",
@@ -857,6 +964,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "108",
             "riven_trend_name": "Silva & Aegis Prime",
             "riven_trend_new_dot": "●●●○○",
             "riven_trend_new_num": "1.05",
@@ -865,6 +973,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "109",
             "riven_trend_name": "Tenet Agendus",
             "riven_trend_new_dot": "●●○○○",
             "riven_trend_new_num": "0.8",
@@ -873,6 +982,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "110",
             "riven_trend_name": "Tenet Exec",
             "riven_trend_new_dot": "●●○○○",
             "riven_trend_new_num": "0.75",
@@ -881,6 +991,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "111",
             "riven_trend_name": "Vitrica",
             "riven_trend_new_dot": "●●●○○",
             "riven_trend_new_num": "1.05",
@@ -889,6 +1000,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "112",
             "riven_trend_name": "Volnus Prime",
             "riven_trend_new_dot": "●●●●○",
             "riven_trend_new_num": "1.15",
@@ -897,6 +1009,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "113",
             "riven_trend_name": "Imperator Vandal",
             "riven_trend_new_dot": "●●●○○",
             "riven_trend_new_num": "0.95",
@@ -905,6 +1018,7 @@
             "riven_trend_type": "ARCHGUN"
         },
         {
+            "riven_trend_id": "114",
             "riven_trend_name": "Kuva Ayanga",
             "riven_trend_new_dot": "●●●○○",
             "riven_trend_new_num": "0.95",
@@ -913,6 +1027,7 @@
             "riven_trend_type": "ARCHGUN"
         },
         {
+            "riven_trend_id": "115",
             "riven_trend_name": "Phaedra",
             "riven_trend_new_dot": "●●●●○",
             "riven_trend_new_num": "1.25",
@@ -921,6 +1036,7 @@
             "riven_trend_type": "ARCHGUN"
         },
         {
+            "riven_trend_id": "116",
             "riven_trend_name": "Aegrit",
             "riven_trend_new_dot": "●○○○○",
             "riven_trend_new_num": "0.6",
@@ -929,6 +1045,7 @@
             "riven_trend_type": "PISTOL"
         },
         {
+            "riven_trend_id": "117",
             "riven_trend_name": "Akjagara",
             "riven_trend_new_dot": "●●●○○",
             "riven_trend_new_num": "1.1",
@@ -937,6 +1054,7 @@
             "riven_trend_type": "PISTOL"
         },
         {
+            "riven_trend_id": "118",
             "riven_trend_name": "Akjagara Prime",
             "riven_trend_new_dot": "●●●○○",
             "riven_trend_new_num": "1",
@@ -945,6 +1063,7 @@
             "riven_trend_type": "PISTOL"
         },
         {
+            "riven_trend_id": "119",
             "riven_trend_name": "Hystrix Prime",
             "riven_trend_new_dot": "●●○○○",
             "riven_trend_new_num": "0.85",
@@ -953,6 +1072,7 @@
             "riven_trend_type": "PISTOL"
         },
         {
+            "riven_trend_id": "120",
             "riven_trend_name": "Magnus Prime",
             "riven_trend_new_dot": "●●●●○",
             "riven_trend_new_num": "1.2",
@@ -961,6 +1081,7 @@
             "riven_trend_type": "PISTOL"
         },
         {
+            "riven_trend_id": "121",
             "riven_trend_name": "Tenet Detron",
             "riven_trend_new_dot": "●●○○○",
             "riven_trend_new_num": "0.85",
@@ -969,6 +1090,7 @@
             "riven_trend_type": "PISTOL"
         },
         {
+            "riven_trend_id": "122",
             "riven_trend_name": "Tenet Diplos",
             "riven_trend_new_dot": "●●○○○",
             "riven_trend_new_num": "0.75",
@@ -977,6 +1099,7 @@
             "riven_trend_type": "PISTOL"
         },
         {
+            "riven_trend_id": "123",
             "riven_trend_name": "Tenet Spirex",
             "riven_trend_new_dot": "●●●○○",
             "riven_trend_new_num": "0.95",
@@ -985,6 +1108,7 @@
             "riven_trend_type": "PISTOL"
         },
         {
+            "riven_trend_id": "124",
             "riven_trend_name": "Tombfinger (secondary)",
             "riven_trend_new_dot": "●●○○○",
             "riven_trend_new_num": "0.7",
@@ -993,6 +1117,7 @@
             "riven_trend_type": "PISTOL"
         },
         {
+            "riven_trend_id": "125",
             "riven_trend_name": "Balla",
             "riven_trend_new_dot": "●●○○○",
             "riven_trend_new_num": "0.85",
@@ -1001,6 +1126,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "126",
             "riven_trend_name": "Dual Kamas",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.35",
@@ -1009,6 +1135,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "127",
             "riven_trend_name": "Dual Kamas Prime",
             "riven_trend_new_dot": "●●●●○",
             "riven_trend_new_num": "1.25",
@@ -1017,6 +1144,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "128",
             "riven_trend_name": "Ghoulsaw",
             "riven_trend_new_dot": "●●●●○",
             "riven_trend_new_num": "1.15",
@@ -1025,6 +1153,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "129",
             "riven_trend_name": "Hespar",
             "riven_trend_new_dot": "●●○○○",
             "riven_trend_new_num": "0.75",
@@ -1033,6 +1162,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "130",
             "riven_trend_name": "Innodem",
             "riven_trend_new_dot": "●○○○○",
             "riven_trend_new_num": "0.6",
@@ -1041,6 +1171,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "131",
             "riven_trend_name": "Karyst Prime",
             "riven_trend_new_dot": "●●●○○",
             "riven_trend_new_num": "1.1",
@@ -1049,6 +1180,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "132",
             "riven_trend_name": "Korumm",
             "riven_trend_new_dot": "●●●○○",
             "riven_trend_new_num": "1.05",
@@ -1057,6 +1189,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "133",
             "riven_trend_name": "Nepheri",
             "riven_trend_new_dot": "●●●○○",
             "riven_trend_new_num": "0.9",
@@ -1065,6 +1198,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "134",
             "riven_trend_name": "Pupacyst",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.35",
@@ -1073,6 +1207,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "135",
             "riven_trend_name": "Rumblejack",
             "riven_trend_new_dot": "●●●●○",
             "riven_trend_new_num": "1.15",
@@ -1081,6 +1216,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "136",
             "riven_trend_name": "Slaytra",
             "riven_trend_new_dot": "●●○○○",
             "riven_trend_new_num": "0.7",
@@ -1089,6 +1225,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "137",
             "riven_trend_name": "Tatsu Prime",
             "riven_trend_new_dot": "●○○○○",
             "riven_trend_new_num": "0.65",
@@ -1097,6 +1234,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "138",
             "riven_trend_name": "Telos Boltace",
             "riven_trend_new_dot": "●●●○○",
             "riven_trend_new_num": "1.1",
@@ -1105,6 +1243,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "139",
             "riven_trend_name": "Tenet Grigori",
             "riven_trend_new_dot": "●●○○○",
             "riven_trend_new_num": "0.85",
@@ -1113,6 +1252,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "140",
             "riven_trend_name": "Tenet Livia",
             "riven_trend_new_dot": "●●○○○",
             "riven_trend_new_num": "0.75",
@@ -1121,6 +1261,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "141",
             "riven_trend_name": "Venato",
             "riven_trend_new_dot": "●●●●○",
             "riven_trend_new_num": "1.25",
@@ -1129,6 +1270,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "142",
             "riven_trend_name": "Verdilac",
             "riven_trend_new_dot": "●●●○○",
             "riven_trend_new_num": "1.05",
@@ -1137,6 +1279,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "143",
             "riven_trend_name": "Vericres",
             "riven_trend_new_dot": "●●○○○",
             "riven_trend_new_num": "0.8",
@@ -1145,6 +1288,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "144",
             "riven_trend_name": "Corvas Prime",
             "riven_trend_new_dot": "●●○○○",
             "riven_trend_new_num": "0.8",
@@ -1153,6 +1297,7 @@
             "riven_trend_type": "ARCHGUN"
         },
         {
+            "riven_trend_id": "145",
             "riven_trend_name": "Scourge Prime",
             "riven_trend_new_dot": "●●●○○",
             "riven_trend_new_num": "1.1",
@@ -1161,6 +1306,7 @@
             "riven_trend_type": "RIFLE"
         },
         {
+            "riven_trend_id": "146",
             "riven_trend_name": "Ambassador",
             "riven_trend_new_dot": "●●●○○",
             "riven_trend_new_num": "1.1",
@@ -1169,6 +1315,7 @@
             "riven_trend_type": "RIFLE"
         },
         {
+            "riven_trend_id": "147",
             "riven_trend_name": "Battacor",
             "riven_trend_new_dot": "●●●○○",
             "riven_trend_new_num": "1.1",
@@ -1177,6 +1324,7 @@
             "riven_trend_type": "RIFLE"
         },
         {
+            "riven_trend_id": "148",
             "riven_trend_name": "Tiberon",
             "riven_trend_new_dot": "●●●○○",
             "riven_trend_new_num": "1.1",
@@ -1185,6 +1333,7 @@
             "riven_trend_type": "RIFLE"
         },
         {
+            "riven_trend_id": "149",
             "riven_trend_name": "Soma Prime",
             "riven_trend_new_dot": "●●●○○",
             "riven_trend_new_num": "1.1",
@@ -1193,6 +1342,7 @@
             "riven_trend_type": "RIFLE"
         },
         {
+            "riven_trend_id": "150",
             "riven_trend_name": "Tenora",
             "riven_trend_new_dot": "●●●○○",
             "riven_trend_new_num": "1.1",
@@ -1201,6 +1351,7 @@
             "riven_trend_type": "RIFLE"
         },
         {
+            "riven_trend_id": "151",
             "riven_trend_name": "Stradavar",
             "riven_trend_new_dot": "●●●○○",
             "riven_trend_new_num": "1.1",
@@ -1209,6 +1360,7 @@
             "riven_trend_type": "RIFLE"
         },
         {
+            "riven_trend_id": "152",
             "riven_trend_name": "Supra",
             "riven_trend_new_dot": "●●●○○",
             "riven_trend_new_num": "1.1",
@@ -1217,6 +1369,7 @@
             "riven_trend_type": "RIFLE"
         },
         {
+            "riven_trend_id": "153",
             "riven_trend_name": "Stradavar Prime",
             "riven_trend_new_dot": "●●●○○",
             "riven_trend_new_num": "1.1",
@@ -1225,6 +1378,7 @@
             "riven_trend_type": "RIFLE"
         },
         {
+            "riven_trend_id": "154",
             "riven_trend_name": "Aeolak",
             "riven_trend_new_dot": "●●●○○",
             "riven_trend_new_num": "1.1",
@@ -1233,6 +1387,7 @@
             "riven_trend_type": "RIFLE"
         },
         {
+            "riven_trend_id": "155",
             "riven_trend_name": "Zenith",
             "riven_trend_new_dot": "●●●○○",
             "riven_trend_new_num": "1.1",
@@ -1241,6 +1396,7 @@
             "riven_trend_type": "RIFLE"
         },
         {
+            "riven_trend_id": "156",
             "riven_trend_name": "Opticor Vandal",
             "riven_trend_new_dot": "●●●○○",
             "riven_trend_new_num": "1.1",
@@ -1249,6 +1405,7 @@
             "riven_trend_type": "RIFLE"
         },
         {
+            "riven_trend_id": "157",
             "riven_trend_name": "Kuva Karak",
             "riven_trend_new_dot": "●●●○○",
             "riven_trend_new_num": "1.05",
@@ -1257,6 +1414,7 @@
             "riven_trend_type": "RIFLE"
         },
         {
+            "riven_trend_id": "158",
             "riven_trend_name": "Baza",
             "riven_trend_new_dot": "●●●○○",
             "riven_trend_new_num": "1.05",
@@ -1265,6 +1423,7 @@
             "riven_trend_type": "RIFLE"
         },
         {
+            "riven_trend_id": "159",
             "riven_trend_name": "Kuva Hind",
             "riven_trend_new_dot": "●●●○○",
             "riven_trend_new_num": "1.05",
@@ -1273,6 +1432,7 @@
             "riven_trend_type": "RIFLE"
         },
         {
+            "riven_trend_id": "160",
             "riven_trend_name": "Tenet Flux Rifle",
             "riven_trend_new_dot": "●●●○○",
             "riven_trend_new_num": "1.05",
@@ -1281,6 +1441,7 @@
             "riven_trend_type": "RIFLE"
         },
         {
+            "riven_trend_id": "161",
             "riven_trend_name": "Kuva Quartakk",
             "riven_trend_new_dot": "●●●○○",
             "riven_trend_new_num": "1.05",
@@ -1289,6 +1450,7 @@
             "riven_trend_type": "RIFLE"
         },
         {
+            "riven_trend_id": "162",
             "riven_trend_name": "Artemis Bow Prime",
             "riven_trend_new_dot": "●●●○○",
             "riven_trend_new_num": "1.0",
@@ -1297,6 +1459,7 @@
             "riven_trend_type": "RIFLE"
         },
         {
+            "riven_trend_id": "163",
             "riven_trend_name": "Supra Vandal",
             "riven_trend_new_dot": "●●●○○",
             "riven_trend_new_num": "1.0",
@@ -1305,6 +1468,7 @@
             "riven_trend_type": "RIFLE"
         },
         {
+            "riven_trend_id": "164",
             "riven_trend_name": "Artemis Bow",
             "riven_trend_new_dot": "●●●○○",
             "riven_trend_new_num": "1.0",
@@ -1313,6 +1477,7 @@
             "riven_trend_type": "RIFLE"
         },
         {
+            "riven_trend_id": "165",
             "riven_trend_name": "Alternox",
             "riven_trend_new_dot": "●●●○○",
             "riven_trend_new_num": "1.0",
@@ -1321,6 +1486,7 @@
             "riven_trend_type": "RIFLE"
         },
         {
+            "riven_trend_id": "166",
             "riven_trend_name": "Tiberon Prime",
             "riven_trend_new_dot": "●●●○○",
             "riven_trend_new_num": "1.0",
@@ -1329,6 +1495,7 @@
             "riven_trend_type": "RIFLE"
         },
         {
+            "riven_trend_id": "167",
             "riven_trend_name": "Tenora Prime",
             "riven_trend_new_dot": "●●●○○",
             "riven_trend_new_num": "1.0",
@@ -1337,6 +1504,7 @@
             "riven_trend_type": "RIFLE"
         },
         {
+            "riven_trend_id": "168",
             "riven_trend_name": "Lenz",
             "riven_trend_new_dot": "●●●○○",
             "riven_trend_new_num": "1.0",
@@ -1345,6 +1513,7 @@
             "riven_trend_type": "RIFLE"
         },
         {
+            "riven_trend_id": "169",
             "riven_trend_name": "Baza Prime",
             "riven_trend_new_dot": "●●●○○",
             "riven_trend_new_num": "1.0",
@@ -1353,6 +1522,7 @@
             "riven_trend_type": "RIFLE"
         },
         {
+            "riven_trend_id": "170",
             "riven_trend_name": "Nagantaka Prime",
             "riven_trend_new_dot": "●●●○○",
             "riven_trend_new_num": "1.0",
@@ -1361,6 +1531,7 @@
             "riven_trend_type": "RIFLE"
         },
         {
+            "riven_trend_id": "171",
             "riven_trend_name": "Stahlta",
             "riven_trend_new_dot": "●●●○○",
             "riven_trend_new_num": "1.0",
@@ -1369,6 +1540,7 @@
             "riven_trend_type": "RIFLE"
         },
         {
+            "riven_trend_id": "172",
             "riven_trend_name": "Kuva Tonkor",
             "riven_trend_new_dot": "●●●○○",
             "riven_trend_new_num": "0.95",
@@ -1377,6 +1549,7 @@
             "riven_trend_type": "RIFLE"
         },
         {
+            "riven_trend_id": "173",
             "riven_trend_name": "Trumna",
             "riven_trend_new_dot": "●●○○○",
             "riven_trend_new_num": "0.85",
@@ -1385,6 +1558,7 @@
             "riven_trend_type": "RIFLE"
         },
         {
+            "riven_trend_id": "174",
             "riven_trend_name": "Amprex",
             "riven_trend_new_dot": "●●○○○",
             "riven_trend_new_num": "0.85",
@@ -1393,6 +1567,7 @@
             "riven_trend_type": "RIFLE"
         },
         {
+            "riven_trend_id": "175",
             "riven_trend_name": "Kuva Chakkhurr",
             "riven_trend_new_dot": "●●○○○",
             "riven_trend_new_num": "0.85",
@@ -1401,6 +1576,7 @@
             "riven_trend_type": "RIFLE"
         },
         {
+            "riven_trend_id": "176",
             "riven_trend_name": "Afentis",
             "riven_trend_new_dot": "●●○○○",
             "riven_trend_new_num": "0.8",
@@ -1409,6 +1585,7 @@
             "riven_trend_type": "RIFLE"
         },
         {
+            "riven_trend_id": "177",
             "riven_trend_name": "Fulmin",
             "riven_trend_new_dot": "●●○○○",
             "riven_trend_new_num": "0.8",
@@ -1417,6 +1594,7 @@
             "riven_trend_type": "RIFLE"
         },
         {
+            "riven_trend_id": "178",
             "riven_trend_name": "Shedu",
             "riven_trend_new_dot": "●●○○○",
             "riven_trend_new_num": "0.75",
@@ -1425,6 +1603,7 @@
             "riven_trend_type": "RIFLE"
         },
         {
+            "riven_trend_id": "179",
             "riven_trend_name": "Kuva Ogris",
             "riven_trend_new_dot": "●●○○○",
             "riven_trend_new_num": "0.7",
@@ -1433,6 +1612,7 @@
             "riven_trend_type": "RIFLE"
         },
         {
+            "riven_trend_id": "180",
             "riven_trend_name": "Proboscis Cernos",
             "riven_trend_new_dot": "●●○○○",
             "riven_trend_new_num": "0.7",
@@ -1441,6 +1621,7 @@
             "riven_trend_type": "RIFLE"
         },
         {
+            "riven_trend_id": "181",
             "riven_trend_name": "Tenet Envoy",
             "riven_trend_new_dot": "●○○○○",
             "riven_trend_new_num": "0.65",
@@ -1449,6 +1630,7 @@
             "riven_trend_type": "RIFLE"
         },
         {
+            "riven_trend_id": "182",
             "riven_trend_name": "Nataruk",
             "riven_trend_new_dot": "●○○○○",
             "riven_trend_new_num": "0.6",
@@ -1457,6 +1639,7 @@
             "riven_trend_type": "RIFLE"
         },
         {
+            "riven_trend_id": "183",
             "riven_trend_name": "Ignis",
             "riven_trend_new_dot": "●○○○○",
             "riven_trend_new_num": "0.6",
@@ -1465,6 +1648,7 @@
             "riven_trend_type": "RIFLE"
         },
         {
+            "riven_trend_id": "184",
             "riven_trend_name": "Kuva Bramma",
             "riven_trend_new_dot": "●○○○○",
             "riven_trend_new_num": "0.6",
@@ -1473,6 +1657,7 @@
             "riven_trend_type": "RIFLE"
         },
         {
+            "riven_trend_id": "185",
             "riven_trend_name": "Kuva Zarr",
             "riven_trend_new_dot": "●○○○○",
             "riven_trend_new_num": "0.6",
@@ -1481,6 +1666,7 @@
             "riven_trend_type": "RIFLE"
         },
         {
+            "riven_trend_id": "186",
             "riven_trend_name": "Acceltra",
             "riven_trend_new_dot": "●○○○○",
             "riven_trend_new_num": "0.6",
@@ -1489,6 +1675,7 @@
             "riven_trend_type": "RIFLE"
         },
         {
+            "riven_trend_id": "187",
             "riven_trend_name": "Phenmor",
             "riven_trend_new_dot": "●○○○○",
             "riven_trend_new_num": "0.6",
@@ -1497,6 +1684,7 @@
             "riven_trend_type": "RIFLE"
         },
         {
+            "riven_trend_id": "188",
             "riven_trend_name": "Ignis Wraith",
             "riven_trend_new_dot": "●○○○○",
             "riven_trend_new_num": "0.55",
@@ -1505,6 +1693,7 @@
             "riven_trend_type": "RIFLE"
         },
         {
+            "riven_trend_id": "189",
             "riven_trend_name": "Steflos",
             "riven_trend_new_dot": "●○○○○",
             "riven_trend_new_num": "0.5",
@@ -1513,6 +1702,7 @@
             "riven_trend_type": "RIFLE"
         },
         {
+            "riven_trend_id": "190",
             "riven_trend_name": "Phage",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.46",
@@ -1521,6 +1711,7 @@
             "riven_trend_type": "SHOTGUN"
         },
         {
+            "riven_trend_id": "191",
             "riven_trend_name": "Convectrix",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.46",
@@ -1529,6 +1720,7 @@
             "riven_trend_type": "SHOTGUN"
         },
         {
+            "riven_trend_id": "192",
             "riven_trend_name": "MK1-Strun",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.45",
@@ -1537,6 +1729,7 @@
             "riven_trend_type": "SHOTGUN"
         },
         {
+            "riven_trend_id": "193",
             "riven_trend_name": "Boar",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.45",
@@ -1545,6 +1738,7 @@
             "riven_trend_type": "SHOTGUN"
         },
         {
+            "riven_trend_id": "194",
             "riven_trend_name": "Strun",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.4",
@@ -1553,6 +1747,7 @@
             "riven_trend_type": "SHOTGUN"
         },
         {
+            "riven_trend_id": "195",
             "riven_trend_name": "Drakgoon",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.4",
@@ -1561,6 +1756,7 @@
             "riven_trend_type": "SHOTGUN"
         },
         {
+            "riven_trend_id": "196",
             "riven_trend_name": "Strun Wraith",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.35",
@@ -1569,6 +1765,7 @@
             "riven_trend_type": "SHOTGUN"
         },
         {
+            "riven_trend_id": "197",
             "riven_trend_name": "Boar Prime",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.34",
@@ -1577,6 +1774,7 @@
             "riven_trend_type": "SHOTGUN"
         },
         {
+            "riven_trend_id": "198",
             "riven_trend_name": "Sobek",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.33",
@@ -1585,6 +1783,7 @@
             "riven_trend_type": "SHOTGUN"
         },
         {
+            "riven_trend_id": "199",
             "riven_trend_name": "Kohm",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.3",
@@ -1593,6 +1792,7 @@
             "riven_trend_type": "SHOTGUN"
         },
         {
+            "riven_trend_id": "200",
             "riven_trend_name": "Astilla",
             "riven_trend_new_dot": "●●●●○",
             "riven_trend_new_num": "1.25",
@@ -1601,6 +1801,7 @@
             "riven_trend_type": "SHOTGUN"
         },
         {
+            "riven_trend_id": "201",
             "riven_trend_name": "Strun Prime",
             "riven_trend_new_dot": "●●●●○",
             "riven_trend_new_num": "1.2",
@@ -1609,6 +1810,7 @@
             "riven_trend_type": "SHOTGUN"
         },
         {
+            "riven_trend_id": "202",
             "riven_trend_name": "Hek",
             "riven_trend_new_dot": "●●●●○",
             "riven_trend_new_num": "1.2",
@@ -1617,6 +1819,7 @@
             "riven_trend_type": "SHOTGUN"
         },
         {
+            "riven_trend_id": "203",
             "riven_trend_name": "Corinth",
             "riven_trend_new_dot": "●●●●○",
             "riven_trend_new_num": "1.15",
@@ -1625,6 +1828,7 @@
             "riven_trend_type": "SHOTGUN"
         },
         {
+            "riven_trend_id": "204",
             "riven_trend_name": "Kuva Drakgoon",
             "riven_trend_new_dot": "●●●●○",
             "riven_trend_new_num": "1.15",
@@ -1633,6 +1837,7 @@
             "riven_trend_type": "SHOTGUN"
         },
         {
+            "riven_trend_id": "205",
             "riven_trend_name": "Tigris",
             "riven_trend_new_dot": "●●●●○",
             "riven_trend_new_num": "1.15",
@@ -1641,6 +1846,7 @@
             "riven_trend_type": "SHOTGUN"
         },
         {
+            "riven_trend_id": "206",
             "riven_trend_name": "Vaykor Hek",
             "riven_trend_new_dot": "●●●○○",
             "riven_trend_new_num": "1.1",
@@ -1649,6 +1855,7 @@
             "riven_trend_type": "SHOTGUN"
         },
         {
+            "riven_trend_id": "207",
             "riven_trend_name": "Astilla Prime",
             "riven_trend_new_dot": "●●●○○",
             "riven_trend_new_num": "1.1",
@@ -1657,6 +1864,7 @@
             "riven_trend_type": "SHOTGUN"
         },
         {
+            "riven_trend_id": "208",
             "riven_trend_name": "Exergis",
             "riven_trend_new_dot": "●●●○○",
             "riven_trend_new_num": "1.1",
@@ -1665,6 +1873,7 @@
             "riven_trend_type": "SHOTGUN"
         },
         {
+            "riven_trend_id": "209",
             "riven_trend_name": "Phantasma",
             "riven_trend_new_dot": "●●●○○",
             "riven_trend_new_num": "1.05",
@@ -1673,6 +1882,7 @@
             "riven_trend_type": "SHOTGUN"
         },
         {
+            "riven_trend_id": "210",
             "riven_trend_name": "Sancti Tigris",
             "riven_trend_new_dot": "●●●○○",
             "riven_trend_new_num": "1.0",
@@ -1681,6 +1891,7 @@
             "riven_trend_type": "SHOTGUN"
         },
         {
+            "riven_trend_id": "211",
             "riven_trend_name": "Corinth Prime",
             "riven_trend_new_dot": "●●●○○",
             "riven_trend_new_num": "1.0",
@@ -1689,6 +1900,7 @@
             "riven_trend_type": "SHOTGUN"
         },
         {
+            "riven_trend_id": "212",
             "riven_trend_name": "Arca Plasmor",
             "riven_trend_new_dot": "●●●○○",
             "riven_trend_new_num": "0.95",
@@ -1697,6 +1909,7 @@
             "riven_trend_type": "SHOTGUN"
         },
         {
+            "riven_trend_id": "213",
             "riven_trend_name": "Tigris Prime",
             "riven_trend_new_dot": "●●●○○",
             "riven_trend_new_num": "0.95",
@@ -1705,6 +1918,7 @@
             "riven_trend_type": "SHOTGUN"
         },
         {
+            "riven_trend_id": "214",
             "riven_trend_name": "Kuva Kohm",
             "riven_trend_new_dot": "●●●○○",
             "riven_trend_new_num": "0.9",
@@ -1713,6 +1927,7 @@
             "riven_trend_type": "SHOTGUN"
         },
         {
+            "riven_trend_id": "215",
             "riven_trend_name": "Kuva Hek",
             "riven_trend_new_dot": "●●●○○",
             "riven_trend_new_num": "0.9",
@@ -1721,6 +1936,7 @@
             "riven_trend_type": "SHOTGUN"
         },
         {
+            "riven_trend_id": "216",
             "riven_trend_name": "Bubonico",
             "riven_trend_new_dot": "●●○○○",
             "riven_trend_new_num": "0.75",
@@ -1729,6 +1945,7 @@
             "riven_trend_type": "SHOTGUN"
         },
         {
+            "riven_trend_id": "217",
             "riven_trend_name": "Phantasma Prime",
             "riven_trend_new_dot": "●○○○○",
             "riven_trend_new_num": "0.65",
@@ -1737,6 +1954,7 @@
             "riven_trend_type": "SHOTGUN"
         },
         {
+            "riven_trend_id": "218",
             "riven_trend_name": "Cedo",
             "riven_trend_new_dot": "●○○○○",
             "riven_trend_new_num": "0.65",
@@ -1745,6 +1963,7 @@
             "riven_trend_type": "SHOTGUN"
         },
         {
+            "riven_trend_id": "219",
             "riven_trend_name": "Felarx",
             "riven_trend_new_dot": "●○○○○",
             "riven_trend_new_num": "0.6",
@@ -1753,6 +1972,7 @@
             "riven_trend_type": "SHOTGUN"
         },
         {
+            "riven_trend_id": "220",
             "riven_trend_name": "Tenet Arca Plasmor",
             "riven_trend_new_dot": "●○○○○",
             "riven_trend_new_num": "0.55",
@@ -1761,6 +1981,7 @@
             "riven_trend_type": "SHOTGUN"
         },
         {
+            "riven_trend_id": "221",
             "riven_trend_name": "Vulkar",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.45",
@@ -1769,6 +1990,7 @@
             "riven_trend_type": "RIFLE"
         },
         {
+            "riven_trend_id": "222",
             "riven_trend_name": "Vulkar Wraith",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.4",
@@ -1777,6 +1999,7 @@
             "riven_trend_type": "RIFLE"
         },
         {
+            "riven_trend_id": "223",
             "riven_trend_name": "Snipetron",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.3",
@@ -1785,6 +2008,7 @@
             "riven_trend_type": "RIFLE"
         },
         {
+            "riven_trend_id": "224",
             "riven_trend_name": "Sporothrix",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.3",
@@ -1793,6 +2017,7 @@
             "riven_trend_type": "RIFLE"
         },
         {
+            "riven_trend_id": "225",
             "riven_trend_name": "Snipetron Vandal",
             "riven_trend_new_dot": "●●●●○",
             "riven_trend_new_num": "1.25",
@@ -1801,6 +2026,7 @@
             "riven_trend_type": "RIFLE"
         },
         {
+            "riven_trend_id": "226",
             "riven_trend_name": "Komorex",
             "riven_trend_new_dot": "●●●●○",
             "riven_trend_new_num": "1.15",
@@ -1809,6 +2035,7 @@
             "riven_trend_type": "RIFLE"
         },
         {
+            "riven_trend_id": "227",
             "riven_trend_name": "Vectis",
             "riven_trend_new_dot": "●●●○○",
             "riven_trend_new_num": "1.1",
@@ -1817,6 +2044,7 @@
             "riven_trend_type": "RIFLE"
         },
         {
+            "riven_trend_id": "228",
             "riven_trend_name": "Lanka",
             "riven_trend_new_dot": "●●●○○",
             "riven_trend_new_num": "1.05",
@@ -1825,6 +2053,7 @@
             "riven_trend_type": "RIFLE"
         },
         {
+            "riven_trend_id": "229",
             "riven_trend_name": "Rubico",
             "riven_trend_new_dot": "●●●○○",
             "riven_trend_new_num": "0.95",
@@ -1833,6 +2062,7 @@
             "riven_trend_type": "RIFLE"
         },
         {
+            "riven_trend_id": "230",
             "riven_trend_name": "Vectis Prime",
             "riven_trend_new_dot": "●●○○○",
             "riven_trend_new_num": "0.85",
@@ -1841,6 +2071,7 @@
             "riven_trend_type": "RIFLE"
         },
         {
+            "riven_trend_id": "231",
             "riven_trend_name": "Rubico Prime",
             "riven_trend_new_dot": "●○○○○",
             "riven_trend_new_num": "0.6",
@@ -1849,6 +2080,7 @@
             "riven_trend_type": "RIFLE"
         },
         {
+            "riven_trend_id": "232",
             "riven_trend_name": "Perigale",
             "riven_trend_new_dot": "●○○○○",
             "riven_trend_new_num": "0.5",
@@ -1857,6 +2089,7 @@
             "riven_trend_type": "RIFLE"
         },
         {
+            "riven_trend_id": "233",
             "riven_trend_name": "Kraken",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.53",
@@ -1865,6 +2098,7 @@
             "riven_trend_type": "PISTOL"
         },
         {
+            "riven_trend_id": "234",
             "riven_trend_name": "Magnus",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "\t1.53",
@@ -1873,6 +2107,7 @@
             "riven_trend_type": "PISTOL"
         },
         {
+            "riven_trend_id": "235",
             "riven_trend_name": "Cestra",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.52",
@@ -1881,6 +2116,7 @@
             "riven_trend_type": "PISTOL"
         },
         {
+            "riven_trend_id": "236",
             "riven_trend_name": "Akzani",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.52",
@@ -1889,6 +2125,7 @@
             "riven_trend_type": "PISTOL"
         },
         {
+            "riven_trend_id": "237",
             "riven_trend_name": "Aklato",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.52",
@@ -1897,6 +2134,7 @@
             "riven_trend_type": "PISTOL"
         },
         {
+            "riven_trend_id": "238",
             "riven_trend_name": "Kunai",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.51",
@@ -1905,6 +2143,7 @@
             "riven_trend_type": "PISTOL"
         },
         {
+            "riven_trend_id": "239",
             "riven_trend_name": "MK1-Kunai",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.51",
@@ -1913,6 +2152,7 @@
             "riven_trend_type": "PISTOL"
         },
         {
+            "riven_trend_id": "240",
             "riven_trend_name": "Bolto",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.51",
@@ -1921,6 +2161,7 @@
             "riven_trend_type": "PISTOL"
         },
         {
+            "riven_trend_id": "241",
             "riven_trend_name": "Seer",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.5",
@@ -1929,6 +2170,7 @@
             "riven_trend_type": "PISTOL"
         },
         {
+            "riven_trend_id": "242",
             "riven_trend_name": "Spectra",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.49",
@@ -1937,6 +2179,7 @@
             "riven_trend_type": "PISTOL"
         },
         {
+            "riven_trend_id": "243",
             "riven_trend_name": "Stug",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.48",
@@ -1945,6 +2188,7 @@
             "riven_trend_type": "PISTOL"
         },
         {
+            "riven_trend_id": "244",
             "riven_trend_name": "Nukor",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.45",
@@ -1953,6 +2197,7 @@
             "riven_trend_type": "PISTOL"
         },
         {
+            "riven_trend_id": "245",
             "riven_trend_name": "Bronco",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.45",
@@ -1961,6 +2206,7 @@
             "riven_trend_type": "PISTOL"
         },
         {
+            "riven_trend_id": "246",
             "riven_trend_name": "Prisma Burst Laser",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.45",
@@ -1969,6 +2215,7 @@
             "riven_trend_type": "PISTOL"
         },
         {
+            "riven_trend_id": "247",
             "riven_trend_name": "Tysis",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.45",
@@ -1977,6 +2224,7 @@
             "riven_trend_type": "PISTOL"
         },
         {
+            "riven_trend_id": "248",
             "riven_trend_name": "Twin Vipers",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.45",
@@ -1985,6 +2233,7 @@
             "riven_trend_type": "PISTOL"
         },
         {
+            "riven_trend_id": "249",
             "riven_trend_name": "Viper",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.45",
@@ -1993,6 +2242,7 @@
             "riven_trend_type": "PISTOL"
         },
         {
+            "riven_trend_id": "250",
             "riven_trend_name": "Afuris",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.45",
@@ -2001,6 +2251,7 @@
             "riven_trend_type": "PISTOL"
         },
         {
+            "riven_trend_id": "251",
             "riven_trend_name": "Talons",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.44",
@@ -2009,6 +2260,7 @@
             "riven_trend_type": "PISTOL"
         },
         {
+            "riven_trend_id": "252",
             "riven_trend_name": "Twin Vipers Wraith",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.41",
@@ -2017,6 +2269,7 @@
             "riven_trend_type": "PISTOL"
         },
         {
+            "riven_trend_id": "253",
             "riven_trend_name": "Embolist",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.4",
@@ -2025,6 +2278,7 @@
             "riven_trend_type": "PISTOL"
         },
         {
+            "riven_trend_id": "254",
             "riven_trend_name": "Vasto",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.4",
@@ -2033,6 +2287,7 @@
             "riven_trend_type": "PISTOL"
         },
         {
+            "riven_trend_id": "255",
             "riven_trend_name": "Viper Wraith",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.4",
@@ -2041,6 +2296,7 @@
             "riven_trend_type": "PISTOL"
         },
         {
+            "riven_trend_id": "256",
             "riven_trend_name": "MK1-Furis",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.4",
@@ -2049,6 +2305,7 @@
             "riven_trend_type": "PISTOL"
         },
         {
+            "riven_trend_id": "257",
             "riven_trend_name": "Spectra Vandal",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.4",
@@ -2057,6 +2314,7 @@
             "riven_trend_type": "PISTOL"
         },
         {
+            "riven_trend_id": "258",
             "riven_trend_name": "Bronco Prime",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.4",
@@ -2065,6 +2323,7 @@
             "riven_trend_type": "PISTOL"
         },
         {
+            "riven_trend_id": "259",
             "riven_trend_name": "Castanas",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.4",
@@ -2073,6 +2332,7 @@
             "riven_trend_type": "PISTOL"
         },
         {
+            "riven_trend_id": "260",
             "riven_trend_name": "Lato",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.4",
@@ -2081,6 +2341,7 @@
             "riven_trend_type": "PISTOL"
         },
         {
+            "riven_trend_id": "261",
             "riven_trend_name": "Dex Furis",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.39",
@@ -2089,6 +2350,7 @@
             "riven_trend_type": "PISTOL"
         },
         {
+            "riven_trend_id": "262",
             "riven_trend_name": "Dual Cestra",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.35",
@@ -2097,6 +2359,7 @@
             "riven_trend_type": "PISTOL"
         },
         {
+            "riven_trend_id": "263",
             "riven_trend_name": "Fusilai",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.35",
@@ -2105,6 +2368,7 @@
             "riven_trend_type": "PISTOL"
         },
         {
+            "riven_trend_id": "264",
             "riven_trend_name": "Furis",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.35",
@@ -2113,6 +2377,7 @@
             "riven_trend_type": "PISTOL"
         },
         {
+            "riven_trend_id": "265",
             "riven_trend_name": "Lato Prime",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.35",
@@ -2121,6 +2386,7 @@
             "riven_trend_type": "PISTOL"
         },
         {
+            "riven_trend_id": "266",
             "riven_trend_name": "Kohmak",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.35",
@@ -2129,6 +2395,7 @@
             "riven_trend_type": "PISTOL"
         },
         {
+            "riven_trend_id": "267",
             "riven_trend_name": "Dual Toxocyst",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.35",
@@ -2137,6 +2404,7 @@
             "riven_trend_type": "PISTOL"
         },
         {
+            "riven_trend_id": "268",
             "riven_trend_name": "Lato Vandal",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.35",
@@ -2145,6 +2413,7 @@
             "riven_trend_type": "PISTOL"
         },
         {
+            "riven_trend_id": "269",
             "riven_trend_name": "Stubba",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.35",
@@ -2153,6 +2422,7 @@
             "riven_trend_type": "PISTOL"
         },
         {
+            "riven_trend_id": "270",
             "riven_trend_name": "Angstrum",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.35",
@@ -2161,6 +2431,7 @@
             "riven_trend_type": "PISTOL"
         },
         {
+            "riven_trend_id": "271",
             "riven_trend_name": "Vasto Prime",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.35",
@@ -2169,6 +2440,7 @@
             "riven_trend_type": "PISTOL"
         },
         {
+            "riven_trend_id": "272",
             "riven_trend_name": "Akmagnus",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.35",
@@ -2177,6 +2449,7 @@
             "riven_trend_type": "PISTOL"
         },
         {
+            "riven_trend_id": "273",
             "riven_trend_name": "Akbronco",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.35",
@@ -2185,6 +2458,7 @@
             "riven_trend_type": "PISTOL"
         },
         {
+            "riven_trend_id": "274",
             "riven_trend_name": "Sancti Castanas",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.35",
@@ -2193,6 +2467,7 @@
             "riven_trend_type": "PISTOL"
         },
         {
+            "riven_trend_id": "275",
             "riven_trend_name": "Acrid",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.33",
@@ -2201,6 +2476,7 @@
             "riven_trend_type": "PISTOL"
         },
         {
+            "riven_trend_id": "276",
             "riven_trend_name": "Twin Rogga",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.3",
@@ -2209,6 +2485,7 @@
             "riven_trend_type": "PISTOL"
         },
         {
+            "riven_trend_id": "277",
             "riven_trend_name": "Secura Dual Cestra",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.3",
@@ -2217,6 +2494,7 @@
             "riven_trend_type": "PISTOL"
         },
         {
+            "riven_trend_id": "278",
             "riven_trend_name": "Prisma Angstrum",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.3",
@@ -2225,6 +2503,7 @@
             "riven_trend_type": "PISTOL"
         },
         {
+            "riven_trend_id": "279",
             "riven_trend_name": "Kulstar",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.3",
@@ -2233,6 +2512,7 @@
             "riven_trend_type": "PISTOL"
         },
         {
+            "riven_trend_id": "280",
             "riven_trend_name": "Spira",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.3",
@@ -2241,6 +2521,7 @@
             "riven_trend_type": "PISTOL"
         },
         {
+            "riven_trend_id": "281",
             "riven_trend_name": "Hikou",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.3",
@@ -2249,6 +2530,7 @@
             "riven_trend_type": "PISTOL"
         },
         {
+            "riven_trend_id": "282",
             "riven_trend_name": "Akbronco Prime",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.3",
@@ -2257,6 +2539,7 @@
             "riven_trend_type": "PISTOL"
         },
         {
+            "riven_trend_id": "283",
             "riven_trend_name": "Akbolto",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.3",
@@ -2265,6 +2548,7 @@
             "riven_trend_type": "PISTOL"
         },
         {
+            "riven_trend_id": "284",
             "riven_trend_name": "Despair",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.3",
@@ -2273,6 +2557,7 @@
             "riven_trend_type": "PISTOL"
         },
         {
+            "riven_trend_id": "285",
             "riven_trend_name": "Hikou Prime",
             "riven_trend_new_dot": "●●●●○",
             "riven_trend_new_num": "1.25",
@@ -2281,6 +2566,7 @@
             "riven_trend_type": "PISTOL"
         },
         {
+            "riven_trend_id": "286",
             "riven_trend_name": "Lex",
             "riven_trend_new_dot": "●●●●○",
             "riven_trend_new_num": "1.25",
@@ -2289,6 +2575,7 @@
             "riven_trend_type": "PISTOL"
         },
         {
+            "riven_trend_id": "287",
             "riven_trend_name": "Brakk",
             "riven_trend_new_dot": "●●●●○",
             "riven_trend_new_num": "1.25",
@@ -2297,6 +2584,7 @@
             "riven_trend_type": "PISTOL"
         },
         {
+            "riven_trend_id": "288",
             "riven_trend_name": "Azima",
             "riven_trend_new_dot": "●●●●○",
             "riven_trend_new_num": "1.25",
@@ -2305,6 +2593,7 @@
             "riven_trend_type": "PISTOL"
         },
         {
+            "riven_trend_id": "289",
             "riven_trend_name": "Knell",
             "riven_trend_new_dot": "●●●●○",
             "riven_trend_new_num": "1.25",
@@ -2313,6 +2602,7 @@
             "riven_trend_type": "PISTOL"
         },
         {
+            "riven_trend_id": "290",
             "riven_trend_name": "Akvasto",
             "riven_trend_new_dot": "●●●●○",
             "riven_trend_new_num": "1.25",
@@ -2321,6 +2611,7 @@
             "riven_trend_type": "PISTOL"
         },
         {
+            "riven_trend_id": "291",
             "riven_trend_name": "Aksomati",
             "riven_trend_new_dot": "●●●●○",
             "riven_trend_new_num": "1.25",
@@ -2329,6 +2620,7 @@
             "riven_trend_type": "PISTOL"
         },
         {
+            "riven_trend_id": "292",
             "riven_trend_name": "Telos Akbolto",
             "riven_trend_new_dot": "●●●●○",
             "riven_trend_new_num": "1.25",
@@ -2337,6 +2629,7 @@
             "riven_trend_type": "PISTOL"
         },
         {
+            "riven_trend_id": "293",
             "riven_trend_name": "Zakti",
             "riven_trend_new_dot": "●●●●○",
             "riven_trend_new_num": "1.25",
@@ -2345,6 +2638,7 @@
             "riven_trend_type": "PISTOL"
         },
         {
+            "riven_trend_id": "294",
             "riven_trend_name": "Ballistica",
             "riven_trend_new_dot": "●●●●○",
             "riven_trend_new_num": "1.25",
@@ -2353,6 +2647,7 @@
             "riven_trend_type": "PISTOL"
         },
         {
+            "riven_trend_id": "295",
             "riven_trend_name": "Zylok",
             "riven_trend_new_dot": "●●●●○",
             "riven_trend_new_num": "1.25",
@@ -2361,6 +2656,7 @@
             "riven_trend_type": "PISTOL"
         },
         {
+            "riven_trend_id": "296",
             "riven_trend_name": "Twin Kohmak",
             "riven_trend_new_dot": "●●●●○",
             "riven_trend_new_num": "1.25",
@@ -2369,6 +2665,7 @@
             "riven_trend_type": "PISTOL"
         },
         {
+            "riven_trend_id": "297",
             "riven_trend_name": "Pandero",
             "riven_trend_new_dot": "●●●●○",
             "riven_trend_new_num": "1.2",
@@ -2377,6 +2674,7 @@
             "riven_trend_type": "PISTOL"
         },
         {
+            "riven_trend_id": "298",
             "riven_trend_name": "Akbolto Prime",
             "riven_trend_new_dot": "●●●●○",
             "riven_trend_new_num": "1.2",
@@ -2385,6 +2683,7 @@
             "riven_trend_type": "PISTOL"
         },
         {
+            "riven_trend_id": "299",
             "riven_trend_name": "Velox",
             "riven_trend_new_dot": "●●●●○",
             "riven_trend_new_num": "1.2",
@@ -2393,6 +2692,7 @@
             "riven_trend_type": "PISTOL"
         },
         {
+            "riven_trend_id": "300",
             "riven_trend_name": "Plinx",
             "riven_trend_new_dot": "●●●●○",
             "riven_trend_new_num": "1.2",
@@ -2401,6 +2701,7 @@
             "riven_trend_type": "PISTOL"
         },
         {
+            "riven_trend_id": "301",
             "riven_trend_name": "Zymos",
             "riven_trend_new_dot": "●●●●○",
             "riven_trend_new_num": "1.2",
@@ -2409,6 +2710,7 @@
             "riven_trend_type": "PISTOL"
         },
         {
+            "riven_trend_id": "302",
             "riven_trend_name": "Akvasto Prime",
             "riven_trend_new_dot": "●●●●○",
             "riven_trend_new_num": "1.2",
@@ -2417,6 +2719,7 @@
             "riven_trend_type": "PISTOL"
         },
         {
+            "riven_trend_id": "303",
             "riven_trend_name": "Cycron",
             "riven_trend_new_dot": "●●●●○",
             "riven_trend_new_num": "1.2",
@@ -2425,6 +2728,7 @@
             "riven_trend_type": "PISTOL"
         },
         {
+            "riven_trend_id": "304",
             "riven_trend_name": "Pox",
             "riven_trend_new_dot": "●●●●○",
             "riven_trend_new_num": "1.2",
@@ -2433,6 +2737,7 @@
             "riven_trend_type": "PISTOL"
         },
         {
+            "riven_trend_id": "305",
             "riven_trend_name": "Rakta Ballistica",
             "riven_trend_new_dot": "●●●●○",
             "riven_trend_new_num": "1.2",
@@ -2441,6 +2746,7 @@
             "riven_trend_type": "PISTOL"
         },
         {
+            "riven_trend_id": "306",
             "riven_trend_name": "Ballistica Prime",
             "riven_trend_new_dot": "●●●●○",
             "riven_trend_new_num": "1.2",
@@ -2449,6 +2755,7 @@
             "riven_trend_type": "PISTOL"
         },
         {
+            "riven_trend_id": "307",
             "riven_trend_name": "Spira Prime",
             "riven_trend_new_dot": "●●●●○",
             "riven_trend_new_num": "1.2",
@@ -2457,6 +2764,7 @@
             "riven_trend_type": "PISTOL"
         },
         {
+            "riven_trend_id": "308",
             "riven_trend_name": "Twin Gremlins",
             "riven_trend_new_dot": "●●●●○",
             "riven_trend_new_num": "1.2",
@@ -2465,6 +2773,7 @@
             "riven_trend_type": "PISTOL"
         },
         {
+            "riven_trend_id": "309",
             "riven_trend_name": "Twin Grakatas",
             "riven_trend_new_dot": "●●●●○",
             "riven_trend_new_num": "1.2",
@@ -2473,6 +2782,7 @@
             "riven_trend_type": "PISTOL"
         },
         {
+            "riven_trend_id": "310",
             "riven_trend_name": "Ocucor",
             "riven_trend_new_dot": "●●●●○",
             "riven_trend_new_num": "1.2",
@@ -2481,6 +2791,7 @@
             "riven_trend_type": "PISTOL"
         },
         {
+            "riven_trend_id": "311",
             "riven_trend_name": "Quatz",
             "riven_trend_new_dot": "●●●●○",
             "riven_trend_new_num": "1.2",
@@ -2489,6 +2800,7 @@
             "riven_trend_type": "PISTOL"
         },
         {
+            "riven_trend_id": "312",
             "riven_trend_name": "Marelok",
             "riven_trend_new_dot": "●●●●○",
             "riven_trend_new_num": "1.2",
@@ -2497,6 +2809,7 @@
             "riven_trend_type": "PISTOL"
         },
         {
+            "riven_trend_id": "313",
             "riven_trend_name": "Lex Prime",
             "riven_trend_new_dot": "●●●●○",
             "riven_trend_new_num": "1.2",
@@ -2505,6 +2818,7 @@
             "riven_trend_type": "PISTOL"
         },
         {
+            "riven_trend_id": "314",
             "riven_trend_name": "Hystrix",
             "riven_trend_new_dot": "●●●●○",
             "riven_trend_new_num": "1.2",
@@ -2513,6 +2827,7 @@
             "riven_trend_type": "PISTOL"
         },
         {
+            "riven_trend_id": "315",
             "riven_trend_name": "Mara Detron",
             "riven_trend_new_dot": "●●●●○",
             "riven_trend_new_num": "1.15",
@@ -2521,6 +2836,7 @@
             "riven_trend_type": "PISTOL"
         },
         {
+            "riven_trend_id": "316",
             "riven_trend_name": "Sonicor",
             "riven_trend_new_dot": "●●●●○",
             "riven_trend_new_num": "1.15",
@@ -2529,6 +2845,7 @@
             "riven_trend_type": "PISTOL"
         },
         {
+            "riven_trend_id": "317",
             "riven_trend_name": "Detron",
             "riven_trend_new_dot": "●●●●○",
             "riven_trend_new_num": "1.15",
@@ -2537,6 +2854,7 @@
             "riven_trend_type": "PISTOL"
         },
         {
+            "riven_trend_id": "318",
             "riven_trend_name": "Gammacor",
             "riven_trend_new_dot": "●●●●○",
             "riven_trend_new_num": "1.15",
@@ -2545,6 +2863,7 @@
             "riven_trend_type": "PISTOL"
         },
         {
+            "riven_trend_id": "319",
             "riven_trend_name": "Prisma Twin Gremlins",
             "riven_trend_new_dot": "●●●●○",
             "riven_trend_new_num": "1.15",
@@ -2553,6 +2872,7 @@
             "riven_trend_type": "PISTOL"
         },
         {
+            "riven_trend_id": "320",
             "riven_trend_name": "Catabolyst",
             "riven_trend_new_dot": "●●●●○",
             "riven_trend_new_num": "1.15",
@@ -2561,6 +2881,7 @@
             "riven_trend_type": "PISTOL"
         },
         {
+            "riven_trend_id": "321",
             "riven_trend_name": "Arca Scisco",
             "riven_trend_new_dot": "●●●○○",
             "riven_trend_new_num": "1.1",
@@ -2569,6 +2890,7 @@
             "riven_trend_type": "PISTOL"
         },
         {
+            "riven_trend_id": "322",
             "riven_trend_name": "Sicarus",
             "riven_trend_new_dot": "●●●○○",
             "riven_trend_new_num": "1.1",
@@ -2577,6 +2899,7 @@
             "riven_trend_type": "PISTOL"
         },
         {
+            "riven_trend_id": "323",
             "riven_trend_name": "Vaykor Marelok",
             "riven_trend_new_dot": "●●●○○",
             "riven_trend_new_num": "1.1",
@@ -2585,6 +2908,7 @@
             "riven_trend_type": "PISTOL"
         },
         {
+            "riven_trend_id": "324",
             "riven_trend_name": "Kuva Kraken",
             "riven_trend_new_dot": "●●●○○",
             "riven_trend_new_num": "1.1",
@@ -2593,6 +2917,7 @@
             "riven_trend_type": "PISTOL"
         },
         {
+            "riven_trend_id": "325",
             "riven_trend_name": "Aklex",
             "riven_trend_new_dot": "●●●○○",
             "riven_trend_new_num": "1.05",
@@ -2601,6 +2926,7 @@
             "riven_trend_type": "PISTOL"
         },
         {
+            "riven_trend_id": "326",
             "riven_trend_name": "Zakti Prime",
             "riven_trend_new_dot": "●●●○○",
             "riven_trend_new_num": "1.05",
@@ -2609,6 +2935,7 @@
             "riven_trend_type": "PISTOL"
         },
         {
+            "riven_trend_id": "327",
             "riven_trend_name": "Dex Pixia",
             "riven_trend_new_dot": "●●●○○",
             "riven_trend_new_num": "1.0",
@@ -2617,6 +2944,7 @@
             "riven_trend_type": "PISTOL"
         },
         {
+            "riven_trend_id": "328",
             "riven_trend_name": "Aksomati Prime",
             "riven_trend_new_dot": "●●●○○",
             "riven_trend_new_num": "1.0",
@@ -2625,6 +2953,7 @@
             "riven_trend_type": "PISTOL"
         },
         {
+            "riven_trend_id": "329",
             "riven_trend_name": "Dex Pixia Prime",
             "riven_trend_new_dot": "●●●○○",
             "riven_trend_new_num": "1.0",
@@ -2633,6 +2962,7 @@
             "riven_trend_type": "PISTOL"
         },
         {
+            "riven_trend_id": "330",
             "riven_trend_name": "Kuva Seer",
             "riven_trend_new_dot": "●●●○○",
             "riven_trend_new_num": "1.0",
@@ -2641,6 +2971,7 @@
             "riven_trend_type": "PISTOL"
         },
         {
+            "riven_trend_id": "331",
             "riven_trend_name": "Regulators Prime",
             "riven_trend_new_dot": "●●●○○",
             "riven_trend_new_num": "1.0",
@@ -2649,6 +2980,7 @@
             "riven_trend_type": "PISTOL"
         },
         {
+            "riven_trend_id": "332",
             "riven_trend_name": "Balefire Charger",
             "riven_trend_new_dot": "●●●○○",
             "riven_trend_new_num": "1.0",
@@ -2657,6 +2989,7 @@
             "riven_trend_type": "PISTOL"
         },
         {
+            "riven_trend_id": "333",
             "riven_trend_name": "Regulators",
             "riven_trend_new_dot": "●●●○○",
             "riven_trend_new_num": "1.0",
@@ -2665,6 +2998,7 @@
             "riven_trend_type": "PISTOL"
         },
         {
+            "riven_trend_id": "334",
             "riven_trend_name": "Akstiletto",
             "riven_trend_new_dot": "●●●○○",
             "riven_trend_new_num": "0.95",
@@ -2673,6 +3007,7 @@
             "riven_trend_type": "PISTOL"
         },
         {
+            "riven_trend_id": "335",
             "riven_trend_name": "Aklex Prime",
             "riven_trend_new_dot": "●●●○○",
             "riven_trend_new_num": "0.95",
@@ -2681,6 +3016,7 @@
             "riven_trend_type": "PISTOL"
         },
         {
+            "riven_trend_id": "336",
             "riven_trend_name": "Atomos",
             "riven_trend_new_dot": "●●●○○",
             "riven_trend_new_num": "0.95",
@@ -2689,6 +3025,7 @@
             "riven_trend_type": "PISTOL"
         },
         {
+            "riven_trend_id": "337",
             "riven_trend_name": "Pyrana",
             "riven_trend_new_dot": "●●●○○",
             "riven_trend_new_num": "0.95",
@@ -2697,6 +3034,7 @@
             "riven_trend_type": "PISTOL"
         },
         {
+            "riven_trend_id": "338",
             "riven_trend_name": "Euphona Prime",
             "riven_trend_new_dot": "●●●○○",
             "riven_trend_new_num": "0.9",
@@ -2705,6 +3043,7 @@
             "riven_trend_type": "PISTOL"
         },
         {
+            "riven_trend_id": "339",
             "riven_trend_name": "Kuva Brakk",
             "riven_trend_new_dot": "●●○○○",
             "riven_trend_new_num": "0.85",
@@ -2713,6 +3052,7 @@
             "riven_trend_type": "PISTOL"
         },
         {
+            "riven_trend_id": "340",
             "riven_trend_name": "Kuva Twin Stubbas",
             "riven_trend_new_dot": "●●○○○",
             "riven_trend_new_num": "0.85",
@@ -2721,6 +3061,7 @@
             "riven_trend_type": "PISTOL"
         },
         {
+            "riven_trend_id": "341",
             "riven_trend_name": "Tenet Cycron",
             "riven_trend_new_dot": "●●○○○",
             "riven_trend_new_num": "0.7",
@@ -2729,6 +3070,7 @@
             "riven_trend_type": "PISTOL"
         },
         {
+            "riven_trend_id": "342",
             "riven_trend_name": "Pyrana Prime",
             "riven_trend_new_dot": "●○○○○",
             "riven_trend_new_num": "0.6",
@@ -2737,6 +3079,7 @@
             "riven_trend_type": "PISTOL"
         },
         {
+            "riven_trend_id": "343",
             "riven_trend_name": "Epitaph",
             "riven_trend_new_dot": "●○○○○",
             "riven_trend_new_num": "0.55",
@@ -2745,6 +3088,7 @@
             "riven_trend_type": "PISTOL"
         },
         {
+            "riven_trend_id": "344",
             "riven_trend_name": "Laetum",
             "riven_trend_new_dot": "●○○○○",
             "riven_trend_new_num": "0.5",
@@ -2753,6 +3097,7 @@
             "riven_trend_type": "PISTOL"
         },
         {
+            "riven_trend_id": "345",
             "riven_trend_name": "Kuva Nukor",
             "riven_trend_new_dot": "●○○○○",
             "riven_trend_new_num": "0.5",
@@ -2761,6 +3106,7 @@
             "riven_trend_type": "PISTOL"
         },
         {
+            "riven_trend_id": "346",
             "riven_trend_name": "Amphis",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.5",
@@ -2769,6 +3115,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "347",
             "riven_trend_name": "Ankyros",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.5",
@@ -2777,6 +3124,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "348",
             "riven_trend_name": "Ether Daggers",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.49",
@@ -2785,6 +3133,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "349",
             "riven_trend_name": "Dark Sword",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.48",
@@ -2793,6 +3142,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "350",
             "riven_trend_name": "Dual Skana",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.48",
@@ -2801,6 +3151,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "351",
             "riven_trend_name": "Plasma Sword",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.48",
@@ -2809,6 +3160,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "352",
             "riven_trend_name": "Cronus",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.48",
@@ -2817,6 +3169,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "353",
             "riven_trend_name": "Heat Sword",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.48",
@@ -2825,6 +3178,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "354",
             "riven_trend_name": "Pangolin Sword",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.47",
@@ -2833,6 +3187,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "355",
             "riven_trend_name": "Kama",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.47",
@@ -2841,6 +3196,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "356",
             "riven_trend_name": "Kogake",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.46",
@@ -2849,6 +3205,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "357",
             "riven_trend_name": "Anku",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.46",
@@ -2857,6 +3214,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "358",
             "riven_trend_name": "MK1-Furax",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.45",
@@ -2865,6 +3223,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "359",
             "riven_trend_name": "Dual Ether",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.45",
@@ -2873,6 +3232,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "360",
             "riven_trend_name": "Machete",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.45",
@@ -2881,6 +3241,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "361",
             "riven_trend_name": "Prisma Machete",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.45",
@@ -2889,6 +3250,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "362",
             "riven_trend_name": "Ether Reaper",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.45",
@@ -2897,6 +3259,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "363",
             "riven_trend_name": "Ankyros Prime",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.45",
@@ -2905,6 +3268,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "364",
             "riven_trend_name": "Kestrel",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.45",
@@ -2913,6 +3277,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "365",
             "riven_trend_name": "Halikar",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.44",
@@ -2921,6 +3286,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "366",
             "riven_trend_name": "Heat Dagger",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.44",
@@ -2929,6 +3295,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "367",
             "riven_trend_name": "Dual Zoren",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.44",
@@ -2937,6 +3304,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "368",
             "riven_trend_name": "Ether Sword",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.44",
@@ -2945,6 +3313,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "369",
             "riven_trend_name": "Dual Heat Swords",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.44",
@@ -2953,6 +3322,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "370",
             "riven_trend_name": "Gram",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.44",
@@ -2961,6 +3331,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "371",
             "riven_trend_name": "Nami Solo",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.43",
@@ -2969,6 +3340,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "372",
             "riven_trend_name": "Ceramic Dagger",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.43",
@@ -2977,6 +3349,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "373",
             "riven_trend_name": "Kronen",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.43",
@@ -2985,6 +3358,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "374",
             "riven_trend_name": "Ninkondi",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.41",
@@ -2993,6 +3367,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "375",
             "riven_trend_name": "Prova",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.4",
@@ -3001,6 +3376,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "376",
             "riven_trend_name": "Dual Raza",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.4",
@@ -3009,6 +3385,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "377",
             "riven_trend_name": "MK1-Bo",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.4",
@@ -3017,6 +3394,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "378",
             "riven_trend_name": "Okina",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.4",
@@ -3025,6 +3403,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "379",
             "riven_trend_name": "Jaw Sword",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.4",
@@ -3033,6 +3412,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "380",
             "riven_trend_name": "Endura",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.4",
@@ -3041,6 +3421,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "381",
             "riven_trend_name": "Broken Scepter",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.4",
@@ -3049,6 +3430,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "382",
             "riven_trend_name": "Gazal Machete",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.4",
@@ -3057,6 +3439,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "383",
             "riven_trend_name": "Tekko",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.4",
@@ -3065,6 +3448,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "384",
             "riven_trend_name": "Machete Wraith",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.4",
@@ -3073,6 +3457,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "385",
             "riven_trend_name": "Kogake Prime",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.4",
@@ -3081,6 +3466,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "386",
             "riven_trend_name": "Furax",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.38",
@@ -3089,6 +3475,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "387",
             "riven_trend_name": "Serro",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.38",
@@ -3097,6 +3484,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "388",
             "riven_trend_name": "Tonbo",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.38",
@@ -3105,6 +3493,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "389",
             "riven_trend_name": "Ripkas",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.38",
@@ -3113,6 +3502,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "390",
             "riven_trend_name": "Fang",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.36",
@@ -3121,6 +3511,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "391",
             "riven_trend_name": "Ack & Brunt",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.35",
@@ -3129,6 +3520,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "392",
             "riven_trend_name": "Heliocor",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.35",
@@ -3137,6 +3529,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "393",
             "riven_trend_name": "Kreska",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.35",
@@ -3145,6 +3538,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "394",
             "riven_trend_name": "Galvacord",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.35",
@@ -3153,6 +3547,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "395",
             "riven_trend_name": "Kesheg",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.35",
@@ -3161,6 +3556,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "396",
             "riven_trend_name": "Karyst",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.35",
@@ -3169,6 +3565,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "397",
             "riven_trend_name": "Korrudo",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.35",
@@ -3177,6 +3574,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "398",
             "riven_trend_name": "Magistar",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.35",
@@ -3185,6 +3583,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "399",
             "riven_trend_name": "Gunsen",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.35",
@@ -3193,6 +3592,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "400",
             "riven_trend_name": "Krohkur",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.35",
@@ -3201,6 +3601,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "401",
             "riven_trend_name": "Bo Prime",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.35",
@@ -3209,6 +3610,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "402",
             "riven_trend_name": "Shaku",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.35",
@@ -3217,6 +3619,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "403",
             "riven_trend_name": "Sheev",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.35",
@@ -3225,6 +3628,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "404",
             "riven_trend_name": "Sibear",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.35",
@@ -3233,6 +3637,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "405",
             "riven_trend_name": "Bo",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.35",
@@ -3241,6 +3646,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "406",
             "riven_trend_name": "Cassowar",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.35",
@@ -3249,6 +3655,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "407",
             "riven_trend_name": "Sydon",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.35",
@@ -3257,6 +3664,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "408",
             "riven_trend_name": "Synoid Heliocor",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.35",
@@ -3265,6 +3673,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "409",
             "riven_trend_name": "Volnus",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.35",
@@ -3273,6 +3682,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "410",
             "riven_trend_name": "Scindo",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.35",
@@ -3281,6 +3691,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "411",
             "riven_trend_name": "Jat Kittag",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.35",
@@ -3289,6 +3700,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "412",
             "riven_trend_name": "Prova Vandal",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.35",
@@ -3297,6 +3709,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "413",
             "riven_trend_name": "Dex Dakra",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.35",
@@ -3305,6 +3718,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "414",
             "riven_trend_name": "Orvius",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.35",
@@ -3313,6 +3727,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "415",
             "riven_trend_name": "Tipedo",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.31",
@@ -3321,6 +3736,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "416",
             "riven_trend_name": "Lacera",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.31",
@@ -3329,6 +3745,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "417",
             "riven_trend_name": "Vaykor Sydon",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.3",
@@ -3337,6 +3754,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "418",
             "riven_trend_name": "Tekko Prime",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.3",
@@ -3345,6 +3763,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "419",
             "riven_trend_name": "Nami Skyla",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.3",
@@ -3353,6 +3772,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "420",
             "riven_trend_name": "Twin Basolk",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.3",
@@ -3361,6 +3781,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "421",
             "riven_trend_name": "Scoliac",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.3",
@@ -3369,6 +3790,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "422",
             "riven_trend_name": "Obex",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.3",
@@ -3377,6 +3799,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "423",
             "riven_trend_name": "Mire",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.3",
@@ -3385,6 +3808,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "424",
             "riven_trend_name": "Skana",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.3",
@@ -3393,6 +3817,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "425",
             "riven_trend_name": "Pathocyst",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.3",
@@ -3401,6 +3826,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "426",
             "riven_trend_name": "Mios",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.3",
@@ -3409,6 +3835,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "427",
             "riven_trend_name": "Glaive",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.3",
@@ -3417,6 +3844,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "428",
             "riven_trend_name": "Arca Titron",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.3",
@@ -3425,6 +3853,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "429",
             "riven_trend_name": "Falcor",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.3",
@@ -3433,6 +3862,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "430",
             "riven_trend_name": "Cobra & Crane",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.3",
@@ -3441,6 +3871,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "431",
             "riven_trend_name": "Fang Prime",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.3",
@@ -3449,6 +3880,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "432",
             "riven_trend_name": "Cerata",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.3",
@@ -3457,6 +3889,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "433",
             "riven_trend_name": "Caustacyst",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.3",
@@ -3465,6 +3898,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "434",
             "riven_trend_name": "Dark Split-Sword",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.3",
@@ -3473,6 +3907,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "435",
             "riven_trend_name": "Cadus",
             "riven_trend_new_dot": "●●●●○",
             "riven_trend_new_num": "1.29",
@@ -3481,6 +3916,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "436",
             "riven_trend_name": "Sancti Magistar",
             "riven_trend_new_dot": "●●●●○",
             "riven_trend_new_num": "1.25",
@@ -3489,6 +3925,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "437",
             "riven_trend_name": "Destreza",
             "riven_trend_new_dot": "●●●●○",
             "riven_trend_new_num": "1.25",
@@ -3497,6 +3934,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "438",
             "riven_trend_name": "Lecta",
             "riven_trend_new_dot": "●●●●○",
             "riven_trend_new_num": "1.25",
@@ -3505,6 +3943,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "439",
             "riven_trend_name": "Prisma Obex",
             "riven_trend_new_dot": "●●●●○",
             "riven_trend_new_num": "1.25",
@@ -3513,6 +3952,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "440",
             "riven_trend_name": "Dual Ichor",
             "riven_trend_new_dot": "●●●●○",
             "riven_trend_new_num": "1.25",
@@ -3521,6 +3961,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "441",
             "riven_trend_name": "Boltace",
             "riven_trend_new_dot": "●●●●○",
             "riven_trend_new_num": "1.25",
@@ -3529,6 +3970,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "442",
             "riven_trend_name": "Tipedo Prime",
             "riven_trend_new_dot": "●●●●○",
             "riven_trend_new_num": "1.25",
@@ -3537,6 +3979,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "443",
             "riven_trend_name": "Wolf Sledge",
             "riven_trend_new_dot": "●●●●○",
             "riven_trend_new_num": "1.25",
@@ -3545,6 +3988,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "444",
             "riven_trend_name": "Twin Krohkur",
             "riven_trend_new_dot": "●●●●○",
             "riven_trend_new_num": "1.2",
@@ -3553,6 +3997,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "445",
             "riven_trend_name": "Prisma Skana",
             "riven_trend_new_dot": "●●●●○",
             "riven_trend_new_num": "1.2",
@@ -3561,6 +4006,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "446",
             "riven_trend_name": "Skana Prime",
             "riven_trend_new_dot": "●●●●○",
             "riven_trend_new_num": "1.2",
@@ -3569,6 +4015,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "447",
             "riven_trend_name": "Secura Lecta",
             "riven_trend_new_dot": "●●●●○",
             "riven_trend_new_num": "1.2",
@@ -3577,6 +4024,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "448",
             "riven_trend_name": "Pulmonars",
             "riven_trend_new_dot": "●●●●○",
             "riven_trend_new_num": "1.2",
@@ -3585,6 +4033,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "449",
             "riven_trend_name": "Dual Cleavers",
             "riven_trend_new_dot": "●●●●○",
             "riven_trend_new_num": "1.2",
@@ -3593,6 +4042,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "450",
             "riven_trend_name": "Fragor",
             "riven_trend_new_dot": "●●●●○",
             "riven_trend_new_num": "1.2",
@@ -3601,6 +4051,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "451",
             "riven_trend_name": "Zenistar",
             "riven_trend_new_dot": "●●●●○",
             "riven_trend_new_num": "1.15",
@@ -3609,6 +4060,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "452",
             "riven_trend_name": "Broken War",
             "riven_trend_new_dot": "●●●●○",
             "riven_trend_new_num": "1.15",
@@ -3617,6 +4069,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "453",
             "riven_trend_name": "Dragon Nikana",
             "riven_trend_new_dot": "●●●●○",
             "riven_trend_new_num": "1.15",
@@ -3625,6 +4078,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "454",
             "riven_trend_name": "Halikar Wraith",
             "riven_trend_new_dot": "●●●●○",
             "riven_trend_new_num": "1.15",
@@ -3633,6 +4087,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "455",
             "riven_trend_name": "Destreza Prime",
             "riven_trend_new_dot": "●●●○○",
             "riven_trend_new_num": "1.14",
@@ -3641,6 +4096,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "456",
             "riven_trend_name": "Venka",
             "riven_trend_new_dot": "●●●○○",
             "riven_trend_new_num": "1.1",
@@ -3649,6 +4105,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "457",
             "riven_trend_name": "Hate",
             "riven_trend_new_dot": "●●●○○",
             "riven_trend_new_num": "1.1",
@@ -3657,6 +4114,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "458",
             "riven_trend_name": "Ninkondi Prime",
             "riven_trend_new_dot": "●●●○○",
             "riven_trend_new_num": "1.1",
@@ -3665,6 +4123,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "459",
             "riven_trend_name": "Dual Keres",
             "riven_trend_new_dot": "●●●○○",
             "riven_trend_new_num": "1.1",
@@ -3673,6 +4132,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "460",
             "riven_trend_name": "Dark Dagger",
             "riven_trend_new_dot": "●●●○○",
             "riven_trend_new_num": "1.1",
@@ -3681,6 +4141,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "461",
             "riven_trend_name": "Dakra Prime",
             "riven_trend_new_dot": "●●●○○",
             "riven_trend_new_num": "1.1",
@@ -3689,6 +4150,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "462",
             "riven_trend_name": "Prisma Dual Cleavers",
             "riven_trend_new_dot": "●●●○○",
             "riven_trend_new_num": "1.1",
@@ -3697,6 +4159,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "463",
             "riven_trend_name": "Hirudo",
             "riven_trend_new_dot": "●●●○○",
             "riven_trend_new_num": "1.1",
@@ -3705,6 +4168,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "464",
             "riven_trend_name": "Galatine",
             "riven_trend_new_dot": "●●●○○",
             "riven_trend_new_num": "1.05",
@@ -3713,6 +4177,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "465",
             "riven_trend_name": "Guandao",
             "riven_trend_new_dot": "●●●○○",
             "riven_trend_new_num": "1.05",
@@ -3721,6 +4186,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "466",
             "riven_trend_name": "Redeemer",
             "riven_trend_new_dot": "●●●○○",
             "riven_trend_new_num": "1.05",
@@ -3729,6 +4195,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "467",
             "riven_trend_name": "War",
             "riven_trend_new_dot": "●●●○○",
             "riven_trend_new_num": "1.05",
@@ -3737,6 +4204,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "468",
             "riven_trend_name": "Fragor Prime",
             "riven_trend_new_dot": "●●●○○",
             "riven_trend_new_num": "1.05",
@@ -3745,6 +4213,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "469",
             "riven_trend_name": "Tatsu",
             "riven_trend_new_dot": "●●●○○",
             "riven_trend_new_num": "1.0",
@@ -3753,6 +4222,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "470",
             "riven_trend_name": "Desert Wind",
             "riven_trend_new_dot": "●●●○○",
             "riven_trend_new_num": "1.0",
@@ -3761,6 +4231,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "471",
             "riven_trend_name": "Pangolin Prime",
             "riven_trend_new_dot": "●●●○○",
             "riven_trend_new_num": "1.0",
@@ -3769,6 +4240,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "472",
             "riven_trend_name": "Orthos",
             "riven_trend_new_dot": "●●●○○",
             "riven_trend_new_num": "1.0",
@@ -3777,6 +4249,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "473",
             "riven_trend_name": "Diwata",
             "riven_trend_new_dot": "●●●○○",
             "riven_trend_new_num": "1.0",
@@ -3785,6 +4258,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "474",
             "riven_trend_name": "仙女 Prime",
             "riven_trend_new_dot": "●●●○○",
             "riven_trend_new_num": "1.0",
@@ -3793,6 +4267,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "475",
             "riven_trend_name": "Garuda Talons",
             "riven_trend_new_dot": "●●●○○",
             "riven_trend_new_num": "1.0",
@@ -3801,6 +4276,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "476",
             "riven_trend_name": "Valkyr之爪 Prime",
             "riven_trend_new_dot": "●●●○○",
             "riven_trend_new_num": "1.0",
@@ -3809,6 +4285,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "477",
             "riven_trend_name": "显赫刀剑 Prime",
             "riven_trend_new_dot": "●●●○○",
             "riven_trend_new_num": "1.0",
@@ -3817,6 +4294,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "478",
             "riven_trend_name": "Quassus",
             "riven_trend_new_dot": "●●●○○",
             "riven_trend_new_num": "1.0",
@@ -3825,6 +4303,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "479",
             "riven_trend_name": "Valkyr Talons",
             "riven_trend_new_dot": "●●●○○",
             "riven_trend_new_num": "1.0",
@@ -3833,6 +4312,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "480",
             "riven_trend_name": "Iron Staff",
             "riven_trend_new_dot": "●●●○○",
             "riven_trend_new_num": "1.0",
@@ -3841,6 +4321,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "481",
             "riven_trend_name": "Exalted Blade",
             "riven_trend_new_dot": "●●●○○",
             "riven_trend_new_num": "1.0",
@@ -3849,6 +4330,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "482",
             "riven_trend_name": "Iron Staff Prime",
             "riven_trend_new_dot": "●●●○○",
             "riven_trend_new_num": "1.0",
@@ -3857,6 +4339,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "483",
             "riven_trend_name": "Nami Skyla Prime",
             "riven_trend_new_dot": "●●●○○",
             "riven_trend_new_num": "0.95",
@@ -3865,6 +4348,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "484",
             "riven_trend_name": "Nikana",
             "riven_trend_new_dot": "●●●○○",
             "riven_trend_new_num": "0.95",
@@ -3873,6 +4357,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "485",
             "riven_trend_name": "Skiajati",
             "riven_trend_new_dot": "●●●○○",
             "riven_trend_new_num": "0.9",
@@ -3881,6 +4366,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "486",
             "riven_trend_name": "Pennant",
             "riven_trend_new_dot": "●●○○○",
             "riven_trend_new_num": "0.85",
@@ -3889,6 +4375,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "487",
             "riven_trend_name": "Venka Prime",
             "riven_trend_new_dot": "●●○○○",
             "riven_trend_new_num": "0.8",
@@ -3897,6 +4384,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "488",
             "riven_trend_name": "Kuva Shildeg",
             "riven_trend_new_dot": "●●○○○",
             "riven_trend_new_num": "0.75",
@@ -3905,6 +4393,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "489",
             "riven_trend_name": "Vastilok",
             "riven_trend_new_dot": "●●○○○",
             "riven_trend_new_num": "0.75",
@@ -3913,6 +4402,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "490",
             "riven_trend_name": "Gram Prime",
             "riven_trend_new_dot": "●●○○○",
             "riven_trend_new_num": "0.75",
@@ -3921,6 +4411,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "491",
             "riven_trend_name": "Reaper Prime",
             "riven_trend_new_dot": "●●○○○",
             "riven_trend_new_num": "0.7",
@@ -3929,6 +4420,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "492",
             "riven_trend_name": "Glaive Prime",
             "riven_trend_new_dot": "●●○○○",
             "riven_trend_new_num": "0.7",
@@ -3937,6 +4429,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "493",
             "riven_trend_name": "Orthos Prime",
             "riven_trend_new_dot": "●●○○○",
             "riven_trend_new_num": "0.7",
@@ -3945,6 +4438,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "494",
             "riven_trend_name": "Guandao Prime",
             "riven_trend_new_dot": "●○○○○",
             "riven_trend_new_num": "0.65",
@@ -3953,6 +4447,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "495",
             "riven_trend_name": "Xoris",
             "riven_trend_new_dot": "●○○○○",
             "riven_trend_new_num": "0.65",
@@ -3961,6 +4456,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "496",
             "riven_trend_name": "Dual Keres Prime",
             "riven_trend_new_dot": "●○○○○",
             "riven_trend_new_num": "0.6",
@@ -3969,6 +4465,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "497",
             "riven_trend_name": "Kronen Prime",
             "riven_trend_new_dot": "●○○○○",
             "riven_trend_new_num": "0.6",
@@ -3977,6 +4474,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "498",
             "riven_trend_name": "Nikana Prime",
             "riven_trend_new_dot": "●○○○○",
             "riven_trend_new_num": "0.6",
@@ -3985,6 +4483,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "499",
             "riven_trend_name": "Paracesis",
             "riven_trend_new_dot": "●○○○○",
             "riven_trend_new_num": "0.6",
@@ -3993,6 +4492,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "500",
             "riven_trend_name": "Redeemer Prime",
             "riven_trend_new_dot": "●○○○○",
             "riven_trend_new_num": "0.6",
@@ -4001,6 +4501,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "501",
             "riven_trend_name": "Shadow Claws",
             "riven_trend_new_dot": "●○○○○",
             "riven_trend_new_num": "0.5",
@@ -4009,6 +4510,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "502",
             "riven_trend_name": "Sarofang",
             "riven_trend_new_dot": "●○○○○",
             "riven_trend_new_num": "0.5",
@@ -4017,6 +4519,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "503",
             "riven_trend_name": "Corufell",
             "riven_trend_new_dot": "●○○○○",
             "riven_trend_new_num": "0.5",
@@ -4025,6 +4528,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "504",
             "riven_trend_name": "Stropha",
             "riven_trend_new_dot": "●○○○○",
             "riven_trend_new_num": "0.5",
@@ -4033,6 +4537,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "505",
             "riven_trend_name": "Cyngas",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.3",
@@ -4041,6 +4546,7 @@
             "riven_trend_type": "ARCHGUN"
         },
         {
+            "riven_trend_id": "506",
             "riven_trend_name": "Dual Decurion",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.3",
@@ -4049,6 +4555,7 @@
             "riven_trend_type": "ARCHGUN"
         },
         {
+            "riven_trend_id": "507",
             "riven_trend_name": "Prisma Arch Heavy Pistols",
             "riven_trend_new_dot": "●●●●○",
             "riven_trend_new_num": "1.25",
@@ -4057,6 +4564,7 @@
             "riven_trend_type": "ARCHGUN"
         },
         {
+            "riven_trend_id": "508",
             "riven_trend_name": "Corvas",
             "riven_trend_new_dot": "●●●●○",
             "riven_trend_new_num": "1.2",
@@ -4065,6 +4573,7 @@
             "riven_trend_type": "ARCHGUN"
         },
         {
+            "riven_trend_id": "509",
             "riven_trend_name": "Grattler",
             "riven_trend_new_dot": "●●●○○",
             "riven_trend_new_num": "1.1",
@@ -4073,6 +4582,7 @@
             "riven_trend_type": "ARCHGUN"
         },
         {
+            "riven_trend_id": "510",
             "riven_trend_name": "Imperator",
             "riven_trend_new_dot": "●●●○○",
             "riven_trend_new_num": "1.1",
@@ -4081,6 +4591,7 @@
             "riven_trend_type": "ARCHGUN"
         },
         {
+            "riven_trend_id": "511",
             "riven_trend_name": "Velocitus",
             "riven_trend_new_dot": "●●●○○",
             "riven_trend_new_num": "1.1",
@@ -4089,6 +4600,7 @@
             "riven_trend_type": "ARCHGUN"
         },
         {
+            "riven_trend_id": "512",
             "riven_trend_name": "Fluctus",
             "riven_trend_new_dot": "●●●○○",
             "riven_trend_new_num": "1.05",
@@ -4097,6 +4609,7 @@
             "riven_trend_type": "ARCHGUN"
         },
         {
+            "riven_trend_id": "513",
             "riven_trend_name": "Morgha",
             "riven_trend_new_dot": "●●●○○",
             "riven_trend_new_num": "1.0",
@@ -4105,6 +4618,7 @@
             "riven_trend_type": "ARCHGUN"
         },
         {
+            "riven_trend_id": "514",
             "riven_trend_name": "Larkspur",
             "riven_trend_new_dot": "●●●○○",
             "riven_trend_new_num": "1.0",
@@ -4113,6 +4627,7 @@
             "riven_trend_type": "ARCHGUN"
         },
         {
+            "riven_trend_id": "515",
             "riven_trend_name": "Cortege",
             "riven_trend_new_dot": "●●●○○",
             "riven_trend_new_num": "1.0",
@@ -4121,6 +4636,7 @@
             "riven_trend_type": "ARCHGUN"
         },
         {
+            "riven_trend_id": "516",
             "riven_trend_name": "Kuva Grattler",
             "riven_trend_new_dot": "●●○○○",
             "riven_trend_new_num": "0.7",
@@ -4129,6 +4645,7 @@
             "riven_trend_type": "ARCHGUN"
         },
         {
+            "riven_trend_id": "517",
             "riven_trend_name": "Arquebex",
             "riven_trend_new_dot": "●○○○○",
             "riven_trend_new_num": "0.5",
@@ -4137,6 +4654,7 @@
             "riven_trend_type": "ARCHGUN"
         },
         {
+            "riven_trend_id": "518",
             "riven_trend_name": "Mausolon",
             "riven_trend_new_dot": "●○○○○",
             "riven_trend_new_num": "0.5",
@@ -4145,6 +4663,7 @@
             "riven_trend_type": "ARCHGUN"
         },
         {
+            "riven_trend_id": "519",
             "riven_trend_name": "Deth Machine Rifle Prime",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.455",
@@ -4153,6 +4672,7 @@
             "riven_trend_type": "RIFLE"
         },
         {
+            "riven_trend_id": "520",
             "riven_trend_name": "Deth Machine Rifle",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.455",
@@ -4161,6 +4681,7 @@
             "riven_trend_type": "RIFLE"
         },
         {
+            "riven_trend_id": "521",
             "riven_trend_name": "Burst Laser",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.45",
@@ -4169,6 +4690,7 @@
             "riven_trend_type": "PISTOL"
         },
         {
+            "riven_trend_id": "522",
             "riven_trend_name": "Stinger",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.315",
@@ -4177,6 +4699,7 @@
             "riven_trend_type": "RIFLE"
         },
         {
+            "riven_trend_id": "523",
             "riven_trend_name": "Verglas",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.3",
@@ -4185,6 +4708,7 @@
             "riven_trend_type": "RIFLE"
         },
         {
+            "riven_trend_id": "524",
             "riven_trend_name": "Deconstructor",
             "riven_trend_new_dot": "●●●●○",
             "riven_trend_new_num": "1.25",
@@ -4193,6 +4717,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "525",
             "riven_trend_name": "Deconstructor Prime",
             "riven_trend_new_dot": "●●●●○",
             "riven_trend_new_num": "1.25",
@@ -4201,6 +4726,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "526",
             "riven_trend_name": "Vulklok",
             "riven_trend_new_dot": "●●●●○",
             "riven_trend_new_num": "1.245",
@@ -4209,6 +4735,7 @@
             "riven_trend_type": "RIFLE"
         },
         {
+            "riven_trend_id": "527",
             "riven_trend_name": "Laser Rifle",
             "riven_trend_new_dot": "●●●●○",
             "riven_trend_new_num": "1.21",
@@ -4217,6 +4744,7 @@
             "riven_trend_type": "RIFLE"
         },
         {
+            "riven_trend_id": "528",
             "riven_trend_name": "Sweeper",
             "riven_trend_new_dot": "●●●○○",
             "riven_trend_new_num": "1.0",
@@ -4225,6 +4753,7 @@
             "riven_trend_type": "SHOTGUN"
         },
         {
+            "riven_trend_id": "529",
             "riven_trend_name": "Sweeper Prime",
             "riven_trend_new_dot": "●●●○○",
             "riven_trend_new_num": "1.0",
@@ -4233,6 +4762,7 @@
             "riven_trend_type": "SHOTGUN"
         },
         {
+            "riven_trend_id": "530",
             "riven_trend_name": "Multron",
             "riven_trend_new_dot": "●●●○○",
             "riven_trend_new_num": "1.0",
@@ -4241,6 +4771,7 @@
             "riven_trend_type": "RIFLE"
         },
         {
+            "riven_trend_id": "531",
             "riven_trend_name": "Tazicor",
             "riven_trend_new_dot": "●●●○○",
             "riven_trend_new_num": "1.0",
@@ -4249,6 +4780,7 @@
             "riven_trend_type": "RIFLE"
         },
         {
+            "riven_trend_id": "532",
             "riven_trend_name": "Artax",
             "riven_trend_new_dot": "●●●○○",
             "riven_trend_new_num": "1.0",
@@ -4257,6 +4789,7 @@
             "riven_trend_type": "RIFLE"
         },
         {
+            "riven_trend_id": "533",
             "riven_trend_name": "Akaten",
             "riven_trend_new_dot": "●●●○○",
             "riven_trend_new_num": "1.0",
@@ -4265,6 +4798,7 @@
             "riven_trend_type": "RIFLE"
         },
         {
+            "riven_trend_id": "534",
             "riven_trend_name": "Batoten",
             "riven_trend_new_dot": "●●●○○",
             "riven_trend_new_num": "1.0",
@@ -4273,6 +4807,7 @@
             "riven_trend_type": "RIFLE"
         },
         {
+            "riven_trend_id": "535",
             "riven_trend_name": "Cryotra",
             "riven_trend_new_dot": "●●●○○",
             "riven_trend_new_num": "1.0",
@@ -4281,6 +4816,7 @@
             "riven_trend_type": "RIFLE"
         },
         {
+            "riven_trend_id": "536",
             "riven_trend_name": "Lacerten",
             "riven_trend_new_dot": "●●●○○",
             "riven_trend_new_num": "1.0",
@@ -4289,6 +4825,7 @@
             "riven_trend_type": "RIFLE"
         },
         {
+            "riven_trend_id": "537",
             "riven_trend_name": "Helstrum",
             "riven_trend_new_dot": "●●●○○",
             "riven_trend_new_num": "1.0",
@@ -4297,6 +4834,7 @@
             "riven_trend_type": "RIFLE"
         },
         {
+            "riven_trend_id": "538",
             "riven_trend_name": "Vulcax",
             "riven_trend_new_dot": "●●●○○",
             "riven_trend_new_num": "1.0",
@@ -4305,6 +4843,7 @@
             "riven_trend_type": "RIFLE"
         },
         {
+            "riven_trend_id": "539",
             "riven_trend_name": "Kronsh",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.3",
@@ -4313,6 +4852,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "540",
             "riven_trend_name": "Rabvee",
             "riven_trend_new_dot": "●●●●●",
             "riven_trend_new_num": "1.3",
@@ -4321,6 +4861,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "541",
             "riven_trend_name": "Ooltha",
             "riven_trend_new_dot": "●●●●○",
             "riven_trend_new_num": "1.25",
@@ -4329,6 +4870,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "542",
             "riven_trend_name": "Dehtat",
             "riven_trend_new_dot": "●●●●○",
             "riven_trend_new_num": "1.2",
@@ -4337,6 +4879,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "543",
             "riven_trend_name": "Mewan",
             "riven_trend_new_dot": "●●●○○",
             "riven_trend_new_num": "1.1",
@@ -4345,6 +4888,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "544",
             "riven_trend_name": "Dokrahm",
             "riven_trend_new_dot": "●●○○○",
             "riven_trend_new_num": "0.75",
@@ -4353,6 +4897,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "545",
             "riven_trend_name": "Sepfahn",
             "riven_trend_new_dot": "●●○○○",
             "riven_trend_new_num": "0.7",
@@ -4361,6 +4906,7 @@
             "riven_trend_type": "MELEE"
         },
         {
+            "riven_trend_id": "546",
             "riven_trend_name": "Sporelacer (Primary)",
             "riven_trend_new_dot": "●●●○○",
             "riven_trend_new_num": "1.1",
@@ -4369,6 +4915,7 @@
             "riven_trend_type": "SHOTGUN"
         },
         {
+            "riven_trend_id": "547",
             "riven_trend_name": "Sporelacer (Secondary)",
             "riven_trend_new_dot": "●○○○○",
             "riven_trend_new_num": "0.55",
@@ -4377,6 +4924,7 @@
             "riven_trend_type": "PISTOL"
         },
         {
+            "riven_trend_id": "548",
             "riven_trend_name": "Vermisplicer (Primary)",
             "riven_trend_new_dot": "●●●○○",
             "riven_trend_new_num": "0.9",
@@ -4385,6 +4933,7 @@
             "riven_trend_type": "RIFLE"
         },
         {
+            "riven_trend_id": "549",
             "riven_trend_name": "Vermisplicer (Secondary)",
             "riven_trend_new_dot": "●●●○○",
             "riven_trend_new_num": "1.1",
@@ -4393,6 +4942,7 @@
             "riven_trend_type": "PISTOL"
         },
         {
+            "riven_trend_id": "550",
             "riven_trend_name": "Catchmoon (Primary)",
             "riven_trend_new_dot": "●●●○○",
             "riven_trend_new_num": "1.1",
@@ -4401,6 +4951,7 @@
             "riven_trend_type": "SHOTGUN"
         },
         {
+            "riven_trend_id": "551",
             "riven_trend_name": "Gaze (Primary)",
             "riven_trend_new_dot": "●●●○○",
             "riven_trend_new_num": "1.05",
@@ -4409,6 +4960,7 @@
             "riven_trend_type": "RIFLE"
         },
         {
+            "riven_trend_id": "552",
             "riven_trend_name": "Tombfinger (Primary)",
             "riven_trend_new_dot": "●●●○○",
             "riven_trend_new_num": "1.0",
@@ -4417,6 +4969,7 @@
             "riven_trend_type": "RIFLE"
         },
         {
+            "riven_trend_id": "553",
             "riven_trend_name": "Rattleguts (Primary)",
             "riven_trend_new_dot": "●●●○○",
             "riven_trend_new_num": "1.0",
@@ -4425,6 +4978,7 @@
             "riven_trend_type": "RIFLE"
         },
         {
+            "riven_trend_id": "554",
             "riven_trend_name": "Rattleguts (Secondary)",
             "riven_trend_new_dot": "●●○○○",
             "riven_trend_new_num": "0.8",
@@ -4433,6 +4987,7 @@
             "riven_trend_type": "PISTOL"
         },
         {
+            "riven_trend_id": "555",
             "riven_trend_name": "Gaze (Secondary)",
             "riven_trend_new_dot": "●●●○○",
             "riven_trend_new_num": "1.0",
@@ -4441,6 +4996,7 @@
             "riven_trend_type": "PISTOL"
         },
         {
+            "riven_trend_id": "556",
             "riven_trend_name": "Catchmoon (Secondary)",
             "riven_trend_new_dot": "●○○○○",
             "riven_trend_new_num": "0.55",

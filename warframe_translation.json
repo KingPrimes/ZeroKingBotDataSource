@@ -58227,20 +58227,20 @@
         {
             "tra_ch": "沙罗之牙",
             "tra_en": "Sarofang",
-            "tra_prime": "",
-            "tra_set": ""
+            "tra_prime": "0",
+            "tra_set": "0"
         },
         {
             "tra_ch": "定海神针",
             "tra_en": "Iron Staff",
-            "tra_prime": "",
-            "tra_set": ""
+            "tra_prime": "0",
+            "tra_set": "0"
         },
         {
             "tra_ch": "定海神针 Prime",
             "tra_en": "Iron Staff Prime",
-            "tra_prime": "",
-            "tra_set": ""
+            "tra_prime": "0",
+            "tra_set": "0"
         },
         {
             "tra_ch": "蚂蟥",
@@ -58257,14 +58257,14 @@
         {
             "tra_ch": "认知 ＆ 冲击",
             "tra_en": "Ack & Brunt",
-            "tra_prime": "",
-            "tra_set": ""
+            "tra_prime": "0",
+            "tra_set": "0"
         },
         {
             "tra_ch": "Dex 妖精",
             "tra_en": "Dex Pixia",
-            "tra_prime": "",
-            "tra_set": ""
+            "tra_prime": "0",
+            "tra_set": "0"
         }
     ]
 }
