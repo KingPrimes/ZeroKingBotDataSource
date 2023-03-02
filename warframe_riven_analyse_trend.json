@@ -2,14 +2,14 @@
     "RECORDS": [
         {
             "id": "1",
-            "archwing": "0",
-            "melle": "58.77",
-            "name": "额外连击数几率",
-            "pistol": "0",
-            "prefix": "Laci",
-            "rifle": "0",
-            "shotgun": "0",
-            "suffix": "Nus"
+            "archwing": "99.9",
+            "melle": "164.7",
+            "name": "伤害/近战伤害",
+            "pistol": "219.6",
+            "prefix": "Visi",
+            "rifle": "165",
+            "shotgun": "164.7",
+            "suffix": "Ata"
         },
         {
             "id": "2",
@@ -144,7 +144,7 @@
             "suffix": "Pha"
         },
         {
-            "id": "15",
+            "id": "14",
             "archwing": "99.9",
             "melle": "180",
             "name": "暴击几率",
@@ -155,7 +155,7 @@
             "suffix": "Cron"
         },
         {
-            "id": "16",
+            "id": "15",
             "archwing": "80.1",
             "melle": "90",
             "name": "暴击伤害",
@@ -166,7 +166,7 @@
             "suffix": "Tis"
         },
         {
-            "id": "17",
+            "id": "16",
             "archwing": "90",
             "melle": "119.7",
             "name": "冲击伤害",
@@ -177,7 +177,7 @@
             "suffix": "Ton"
         },
         {
-            "id": "18",
+            "id": "17",
             "archwing": "90",
             "melle": "119.7",
             "name": "切割伤害",
@@ -188,7 +188,7 @@
             "suffix": "Sus"
         },
         {
-            "id": "19",
+            "id": "18",
             "archwing": "90",
             "melle": "119.7",
             "name": "穿刺伤害",
@@ -199,7 +199,7 @@
             "suffix": "Cak"
         },
         {
-            "id": "20",
+            "id": "19",
             "archwing": "60.3",
             "melle": "90",
             "name": "触发几率",
@@ -210,7 +210,7 @@
             "suffix": "Dex"
         },
         {
-            "id": "21",
+            "id": "20",
             "archwing": "99",
             "melle": "99",
             "name": "触发时间",
@@ -221,18 +221,7 @@
             "suffix": "Des"
         },
         {
-            "id": "22",
-            "archwing": "99.9",
-            "melle": "164.7",
-            "name": "基础伤害/近战伤害",
-            "pistol": "219.6",
-            "prefix": "Visi",
-            "rifle": "165",
-            "shotgun": "164.7",
-            "suffix": "Ata"
-        },
-        {
-            "id": "23",
+            "id": "21",
             "archwing": "0",
             "melle": "119.7",
             "name": "处决伤害",
@@ -243,7 +232,7 @@
             "suffix": "Cta"
         },
         {
-            "id": "24",
+            "id": "22",
             "archwing": "60.03",
             "melle": "54.9",
             "name": "射速/攻击速度",
@@ -254,7 +243,7 @@
             "suffix": "Dra"
         },
         {
-            "id": "25",
+            "id": "23",
             "archwing": "0",
             "melle": "0",
             "name": "投射物飞行速度",
@@ -265,7 +254,7 @@
             "suffix": "Nak"
         },
         {
-            "id": "26",
+            "id": "24",
             "archwing": "0",
             "melle": "73.44",
             "name": "重击效率",
@@ -276,7 +265,7 @@
             "suffix": "Us"
         },
         {
-            "id": "27",
+            "id": "25",
             "archwing": "60.3",
             "melle": "0",
             "name": "多重射击",
@@ -287,7 +276,7 @@
             "suffix": "Can"
         },
         {
-            "id": "28",
+            "id": "26",
             "archwing": "2.7",
             "melle": "0",
             "name": "穿透",
@@ -298,7 +287,7 @@
             "suffix": "Nok"
         },
         {
-            "id": "29",
+            "id": "27",
             "archwing": "99.9",
             "melle": "0",
             "name": "装填速度",
@@ -309,7 +298,7 @@
             "suffix": "Tak"
         },
         {
-            "id": "30",
+            "id": "28",
             "archwing": "0",
             "melle": "1.94",
             "name": "攻击范围",
@@ -320,7 +309,7 @@
             "suffix": "Tor"
         },
         {
-            "id": "31",
+            "id": "29",
             "archwing": "-90",
             "melle": "0",
             "name": "后坐力",
@@ -331,7 +320,7 @@
             "suffix": "Mag"
         },
         {
-            "id": "32",
+            "id": "30",
             "archwing": "59.99",
             "melle": "0",
             "name": "变焦",
@@ -342,7 +331,7 @@
             "suffix": "Lis"
         },
         {
-            "id": "33",
+            "id": "31",
             "archwing": "0",
             "melle": "120",
             "name": "滑行攻击暴击几率",
@@ -351,6 +340,17 @@
             "rifle": "0",
             "shotgun": "0",
             "suffix": "Nent"
+        },
+        {
+            "id": "32",
+            "archwing": "0",
+            "melle": "58.77",
+            "name": "额外连击数几率",
+            "pistol": "0",
+            "prefix": "Laci",
+            "rifle": "0",
+            "shotgun": "0",
+            "suffix": "Nus"
         }
     ]
 }
