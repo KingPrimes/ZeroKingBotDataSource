@@ -544,6 +544,11 @@
             "alias_id": "113",
             "alias_en": "阿耶檀识 Anasa 塑像",
             "alias_ch": "菊花"
+        },
+        {
+            "alias_id": "114",
+            "alias_en": "Hydroid",
+            "alias_ch": "海王"
         }
     ]
 }
