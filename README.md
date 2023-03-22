@@ -24,7 +24,7 @@
 ---
 
 - [文档链接](https://www.yuque.com/kingprimes/twgbot)
-- [WarframeMarket战甲别名](https://raw.githubusercontent.com/KingPrimes/ZeroKingBotDataSource/main/warframe_alias.json)
+- [WarframeMarket战甲别名](https://github.com/KingPrimes/ZeroKingBotDataSource/blob/main/warframe_alias.json)
 
 服务器资源推荐
 ---
