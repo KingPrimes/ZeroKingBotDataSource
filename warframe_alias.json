@@ -549,6 +549,68 @@
             "alias_id": "114",
             "alias_en": "Hydroid",
             "alias_ch": "海王"
+        },
+        {
+            "alias_id": 115,
+            "alias_en": "Atlas",
+            "alias_ch": "石头"
+        },
+        {
+            "alias_id": 116,
+            "alias_en": "Ember",
+            "alias_ch": "火男"
+        },
+        {
+            "alias_id": 117,
+            "alias_en": "Ember",
+            "alias_ch": "火甲"
+        },
+        {
+            "alias_id": 118,
+            "alias_en": "Equinox",
+            "alias_ch": "扶他"
+        },
+        {
+            "alias_id": 119,
+            "alias_en": "Equinox",
+            "alias_ch": "阴阳甲"
+        },
+        {
+            "alias_id": 120,
+            "alias_en": "Hydroid",
+            "alias_ch": "水甲"
+        },
+        {
+            "alias_id": 121,
+            "alias_en": "Nyx",
+            "alias_ch": "脑淤血"
+        },
+        {
+            "alias_id": 122,
+            "alias_en": "Valkyr",
+            "alias_ch": "瓦姐"
+        },
+        {
+            "alias_id": 123,
+            "alias_en": "Wukong",
+            "alias_ch": "猴子"
+        },
+        {
+            "alias_id": 124,
+            "alias_en": "Baruuk",
+            "alias_ch": "武僧"
+        },
+        {
+            "alias_id": 125,
+            "alias_en": "Revenant",
+            "alias_ch": "夜灵"
+        },
+        {
+            "alias_id": 126,
+            "alias_en": "Revenant",
+            "alias_ch": "夜店"
         }
+        
+        
     ]
 }
