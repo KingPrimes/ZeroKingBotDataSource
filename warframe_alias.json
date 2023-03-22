@@ -553,217 +553,62 @@
         {
             "alias_id": 115,
             "alias_en": "Atlas",
-            "alias_ch": "石"
-        },
-        {
-            "alias_id": 116,
-            "alias_en": "Atlas",
             "alias_ch": "石头"
         },
         {
-            "alias_id": 117,
-            "alias_en": "Atlas",
-            "alias_ch": "土"
-        },
-        {
-            "alias_id": 118,
-            "alias_en": "Chroma",
-            "alias_ch": "龙"
-        },
-        {
-            "alias_id": 119,
+            "alias_id": 116,
             "alias_en": "Ember",
             "alias_ch": "火男"
         },
         {
-            "alias_id": 120,
+            "alias_id": 117,
             "alias_en": "Ember",
             "alias_ch": "火甲"
         },
         {
-            "alias_id": 121,
-            "alias_en": "Ember",
-            "alias_ch": "火鸡"
-        },
-        {
-            "alias_id": 122,
+            "alias_id": 118,
             "alias_en": "Equinox",
             "alias_ch": "扶他"
         },
         {
-            "alias_id": 123,
+            "alias_id": 119,
             "alias_en": "Equinox",
             "alias_ch": "阴阳甲"
         },
         {
-            "alias_id": 124,
-            "alias_en": "Frost",
-            "alias_ch": "冰p"
-        },
-        {
-            "alias_id": 125,
-            "alias_en": "Frost",
-            "alias_ch": "冰"
-        },
-        {
-            "alias_id": 126,
-            "alias_en": "Gara",
-            "alias_ch": "玻璃p"
-        },
-        {
-            "alias_id": 127,
-            "alias_en": "Garuda",
-            "alias_ch": "血妈p"
-        },
-        {
-            "alias_id": 128,
-            "alias_en": "Harrow",
-            "alias_ch": "主教p"
-        },
-        {
-            "alias_id": 129,
+            "alias_id": 120,
             "alias_en": "Hydroid",
             "alias_ch": "水甲"
         },
         {
-            "alias_id": 130,
-            "alias_en": "Hydroid",
-            "alias_ch": "水"
-        },
-        {
-            "alias_id": 131,
-            "alias_en": "Inaros",
-            "alias_ch": "沙p"
-        },
-        {
-            "alias_id": 132,
-            "alias_en": "Inaros",
-            "alias_ch": "沙"
-        },
-        {
-            "alias_id": 133,
-            "alias_en": "Ivara",
-            "alias_ch": "弓p"
-        },
-        {
-            "alias_id": 134,
-            "alias_en": "Ivara",
-            "alias_ch": "弓"
-        },
-        {
-            "alias_id": 135,
-            "alias_en": "Mesa",
-            "alias_ch": "女枪p"
-        },
-        {
-            "alias_id": 136,
-            "alias_en": "Mirage",
-            "alias_ch": "小丑p"
-        },
-        {
-            "alias_id": 137,
-            "alias_en": "Nekros",
-            "alias_ch": "摸尸p"
-        },
-        {
-            "alias_id": 138,
-            "alias_en": "Nezha",
-            "alias_ch": "哪吒p"
-        },
-        {
-            "alias_id": 139,
-            "alias_en": "Nidus",
-            "alias_ch": "蛆P"
-        },
-        {
-            "alias_id": 140,
+            "alias_id": 121,
             "alias_en": "Nyx",
             "alias_ch": "脑淤血"
         },
         {
-            "alias_id": 141,
-            "alias_en": "Octavia",
-            "alias_ch": "djp"
-        },
-        {
-            "alias_id": 142,
-            "alias_en": "Rhino",
-            "alias_ch": "牛p"
-        },
-        {
-            "alias_id": 143,
-            "alias_en": "Titania",
-            "alias_ch": "蝶p"
-        },
-        {
-            "alias_id": 144,
+            "alias_id": 122,
             "alias_en": "Valkyr",
             "alias_ch": "瓦姐"
         },
         {
-            "alias_id": 145,
-            "alias_en": "Vauban",
-            "alias_ch": "工程p"
-        },
-        {
-            "alias_id": 146,
-            "alias_en": "Wukong",
-            "alias_ch": "悟空p"
-        },
-        {
-            "alias_id": 147,
+            "alias_id": 123,
             "alias_en": "Wukong",
             "alias_ch": "猴子"
         },
         {
-            "alias_id": 148,
-            "alias_en": "Wukong",
-            "alias_ch": "猴P"
-        },
-        {
-            "alias_id": 149,
-            "alias_en": "Wukong",
-            "alias_ch": "猴子P"
-        },
-        {
-            "alias_id": 150,
-            "alias_en": "Khora",
-            "alias_ch": "猫"
-        },
-        {
-            "alias_id": 151,
-            "alias_en": "Khora",
-            "alias_ch": "猫p"
-        },
-        {
-            "alias_id": 152,
-            "alias_en": "Khora",
-            "alias_ch": "猫甲p"
-        },
-        {
-            "alias_id": 153,
+            "alias_id": 124,
             "alias_en": "Baruuk",
             "alias_ch": "武僧"
         },
         {
-            "alias_id": 154,
+            "alias_id": 125,
             "alias_en": "Revenant",
             "alias_ch": "夜灵"
         },
         {
-            "alias_id": 155,
-            "alias_en": "Revenant",
-            "alias_ch": "夜灵p"
-        },
-        {
-            "alias_id": 156,
+            "alias_id": 126,
             "alias_en": "Revenant",
             "alias_ch": "夜店"
-        },
-        {
-            "alias_id": 157,
-            "alias_en": "Revenant",
-            "alias_ch": "夜店p"
         }
         
         
