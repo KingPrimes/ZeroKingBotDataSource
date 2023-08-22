@@ -19,13 +19,6 @@
 </div>
 </div>
 
-使用文档
----
----
-
-- [文档链接](https://www.yuque.com/kingprimes/twgbot)
-- [WarframeMarket战甲别名](https://github.com/KingPrimes/ZeroKingBotDataSource/blob/main/warframe_alias.json)
-
 服务器资源推荐
 ---
 
@@ -56,30 +49,3 @@
     </td></tr>
 </table>
 <!-- readme: collaborators,contributors -end -->
-
-
-赞助作者
----
----
-<img src="https://raw.githubusercontent.com/KingPrimes/ZeroKingBot/main/.github/image/upA-W.png" width="500"/>
-
-赞助列表(排名不分先后)
----
----
-
-| 支付宝用户 | 微信用户 | 金额        | 日期         |
-|-------|------|-----------|------------|
-| **元   |      | 50RMB | 2023-03-07 |
-| **顺   |      | 66RMB     | 2023-02-10 |
-| **平   |      | 10RMB     | 2022-10-17 |
-| **谦   |      | 50RMB     | 2022-10-11 |
-|       | C*F  | 20RMB     | 2022-10-11 |
-| **谦   |      | 30RMB     | 2022-09-22 |
-| **顺   |      | 20RMB 已退还 | 2022-09-22 |
-|       | A*i  | 10RMB     | 2022-09-16 |
-| **谦   |      | 100RMB    | 2022-09-15 |
-| *健    |      | 20RMB     | 2022-09-12 |
-| **谦   |      | 100RMB    | 2022-09-03 |
-| **谦   |      | 50RMB     | 2022-08-24 |
-| *晨    |      | 50RMB     | 2022-07-14 |
-
